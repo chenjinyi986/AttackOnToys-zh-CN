@@ -1,0 +1,120 @@
+src	zh	note
+# 动态拼接文本。原文列是 XUnity 正则键，原样写入；避免使用反斜杠，字面符号用字符类 [.] [|] [*] [[] []]。
+# r: 直接替换；sr: 拆分后各组再查表翻译。
+多行兜底（第五轮）：按第一个换行拆成两段分别查表，剩余部分递归再拆（需要 MaxTextParserRecursion ≥ 行数）。放在最前，保证所有具体规则都先被尝试。
+sr:"^[ ]*(?<a>[^\n]*)\n[ ]*(?<b>[^\n]*(?:\n[^\n]*){0,10})(?!(?s:.))$"	${a}\n${b}	训练营多句合成一页的对话（只匹配 2～12 行，避免对上百行的制作人员名单反复递归；属性栏最多 8 行）；顺带去掉行首空格，避免长句换行时多出空行
+r:"^COLLECTIBLE MEDAL ([0-9]+) / ([0-9]+)$"	可收集勋章 $1 / $2	任务详情
+sr:"^DIFFICULTY: (.+)(?!(?s:.))$"	难度：$1
+r:"^SLOT: ([0-9]+) / ([0-9]+)$"	槽位：$1 / $2	存档槽
+r:"^SQUAD: ([0-9]+) / ([0-9]+)$"	小队：$1 / $2
+r:"^REWARD x ([0-9]+)%$"	奖励 x $1%
+r:"^[[]![]] SQUAD: (.+) IS DOWN!$"	[!] 小队：$1 倒下了！	名字不翻
+r:"^DROP ([0-9]+) PLASTIC$"	丢下 $1 塑料
+r:"^NEXT WAVE [|] (.+)$"	下一波 | $1
+r:"^GAME START [|] (.+)$"	游戏开始 | $1
+r:"^RESPAWN IN (.+)$"	$1 后重生
+r:"^PROTECT HQ UNTIL WAVE ([0-9]+)$"	坚守总部直到第 $1 波
+r:"^([0-9]+) MEDAL$"	$1 枚勋章
+r:"^TIME: ([0-9.]+)x$"	时间：$1x
+r:"^SLOT ([0-9]+)$"	槽位 $1	按键绑定
+r:"^COMMAND ([0-9]+)$"	指令 $1	按键绑定
+r:"^:TAP: (.+)$"	点按：$1	按键绑定
+r:"^:HOLD: (.+)$"	长按：$1	按键绑定
+r:"^[*]Press Enter to connect your keyboard[.][.][.]([0-9]+)s$"	*按 Enter 连接你的键盘……$1 秒	分屏
+sr:"^(TAN|GREY|BLUE|RED|BLACK|PURPLE|ORANGE) WIN(?!(?s:.))$"	$1阵营获胜
+任务目标（第二批补充）
+r:"^(?i)PLAYER KILL OVER ([0-9]+)$"	玩家击杀超过 $1	
+r:"^(?i)FRIENDLY DEATH LESS THAN ([0-9]+)$"	友军阵亡少于 $1	
+r:"^(?i)Protect HQ Until Wave ([0-9]+)$"	坚守总部直到第 $1 波	
+r:"^NEXT WAVE[ |]+(.+)$"	下一波 $1	代码里是 "NEXT WAVE   " + 计时
+混合文本：游戏把已翻译的中文读回来再拼上英文，只对英文尾巴查表
+sr:"^(?<head_i>[^A-Za-z]*[！。？])(?<tail>[^一-龥]*[A-Za-z][^一-龥]*)(?!(?s:.))$"	${head_i}${tail}	任务详情窗口
+名牌与角色信息（rank 组查表翻译，_i 结尾的组原样保留）
+sr:"^(?<rank>Pvt|Pfc|Spc|Cpl|Sgt|Lt|Cpt)[.] (?<name_i>[^:]*) :(?<cls>[^:]+):(?!(?s:.))$"	${rank} ${name_i} :${cls}:	NPC 头顶名牌
+sr:"^(?!(Pvt|Pfc|Spc|Cpl|Sgt|Lt|Cpt)[.] )(?<name_i>[^:]+) :(?<cls>[^:]+):(?!(?s:.))$"	${name_i} :${cls}:	
+sr:"^(?<rank>PVT|PFC|SPC|CPL|SGT|LT|CPT)[.] (?<rest_i>.+)(?!(?s:.))$"	${rank} ${rest_i}	物品栏标题（名字和兵种连在一起，无法拆分）
+sr:"^NAME: (?<name_i>.*)[ \n]TOY: (?<toy>.*)[ \n]RANK: (?<rank_i>.*)[ \n]XP: (?<xp_i>.*)[ \n]VERSION: (?<ver_i>.*)[ \n]TIME: (?<time_i>[^\n]*)\n?(?!(?s:.))$"	名称：${name_i}\n玩具：${toy}\n军衔：${rank_i}\n经验：${xp_i}\n版本：${ver_i}\n时间：${time_i}\n	存档详情
+sr:"^(?<cls>[A-Z][A-Z -]+)\n(?<name_i>[^\n]*)\n(?<rest_i>[0-9 /%\n]*)(?!(?s:.))$"	${cls}\n${name_i}\n${rest_i}	物品栏数值列，首行兵种
+sr:"^DAMAGE: (?<dmg_i>.+)[ \n]RANGE: (?<rng_i>.+)[ \n]LVL: (?<lvl_i>.+) [|] (?<rank>[^\n]+)[ \n]XP: (?<xp_i>.+)(?!(?s:.))$"	伤害：${dmg_i}\n射程：${rng_i}\n等级：${lvl_i} | ${rank}\nXP：${xp_i}	兵种属性
+战斗提示（代码拼接）
+r:"^[[]!] SQUAD: (.+) IS DOWN!$"	[!] 小队：$1 倒下了！	
+r:"^[[]X] SQUAD: (.+) IS DEAD!$"	[X] 小队：$1 阵亡了！	
+r:"^[[]!] ?(.+) IS DOWN!$"	[!] $1 倒下了！	
+r:"^[[]X] ?(.+) IS DEAD!$"	[X] $1 阵亡了！	
+r:"^[[]✔] ?(.+) IS AUTO REVIVED!$"	[✔] $1 已自动复活！	
+r:"^(.+) LVL UP!$"	$1 升级了！	
+r:"^PLAYER: (.+)$"	玩家：$1	
+r:"^(.+) - JOIN THE BATTLE!$"	$1 - 加入战斗！	
+r:"^(.+) - INVADE THE BATTLE!$"	$1 - 入侵战斗！	
+sr:"^(GREEN|TAN|GREY|BLUE|RED|BLACK|PURPLE|ORANGE) LOSE(?!(?s:.))$"	$1阵营落败	
+sr:"^(.+) WAS UNLOCKED!(?!(?s:.))$"	$1 已解锁！	
+r:"^(?i)Melt your squad for plastic coin[.] You will get [+]([0-9]+) plastic coin[.]$"	把小队成员熔成塑料币。你将获得 +$1 塑料币。	
+r:"^UNLOCKED AT LEVEL: (.+)$"	等级 $1 解锁	
+r:"^Damage: (.+)$"	伤害：$1	
+r:"^Total Extra HP Upgrade: (.+)$"	额外生命值总提升：$1	
+r:"^Total Max HP Upgrade: (.+)$"	最大生命值总提升：$1	
+r:"^Total Auto Revive Chance: (.+)$"	自动复活总几率：$1	
+r:"^Total Auto Heal Upgrade: (.+)$"	自动治疗总提升：$1	
+r:"^Total Damage Upgrade: (.+)$"	伤害总提升：$1	
+r:"^([0-9.]+ ?%) Chance$"	$1 几率	
+sr:"^Unable To Save: (.+)(?!(?s:.))$"	无法保存：$1	
+r:"^Unable To Load Mod: (.+)$"	无法加载模组：$1	
+r:"^Data Load Error/Missmatch: (.+)$"	数据加载错误/不匹配：$1	
+r:"^Unable To Load Toy-Box Level: (.+)$"	无法加载玩具箱关卡：$1	
+r:"^Toy-Box Map: (.+)$"	玩具箱地图：$1	
+r:"^UPDATE TO WORKSHOP ID [(](.+)[)]$"	更新到创意工坊 ID（$1）	
+r:"^STEAM FOLDER: (.+)$"	STEAM 文件夹：$1	
+训练营对话（第五轮重写，见 reports/07）。游戏显示为 " " + 碎片 [+ " " + 玩家名] [+ 标点]：开场军官的字幕补句号，岗位 NPC 不补。
+XUnity 的 r: 规则从文件末尾往前试、第一条匹配即停，所以同一句的通用写法在前、带叹号的写法在后。{KEY} 由构建脚本展开为 :键: / ::TAP: 键: / ::HOLD: 键: 三种。
+r:"^[ ]*Hey (.+?), Welcome to the bootcamp[.]?$"	嘿，$1，欢迎来到新兵训练营。	已实测
+r:"^[ ]*Hey (.+?), welcome to Army Medic Tent post[.]?$"	嘿，$1，欢迎来到陆军医疗帐篷岗位。	
+r:"^[ ]*Hey (.+?), This is our HQ[.] We must protect it at all cost![.]?$"	嘿，$1，这里是我们的总部。我们必须不惜一切代价守住它！	
+r:"^[ ]*Also, This is one very IMPORTANT ?(.*?), if your Main Squad Member is dead[.][.][.] you won't be able to revive them, you must quickly save them when they are dying in the battlefield[.]?$"	还有一件非常重要的事，$1：主力小队成员一旦阵亡……就再也无法复活了，他们在战场上濒死时你必须尽快救下他们。	
+r:"^[ ]*Need some plastic to be spent ?(.*?)[?] well look no more![.]?$"	$1，有塑料想花掉吗？那就别再找了！	已实测格式
+r:"^[ ]*Good Luck on your Training (.+?)[ ]*[.]?$"	祝你训练顺利，$1。	已实测
+r:"^[ ]*Good luck!!! (.+?)[ ]*[.!]*$"	祝你好运，$1！！！	
+r:"^[ ]*Don't forget to refill some amunition before going to war (.+?)[ ]*[.]?$"	上战场前别忘了补充弹药，$1。	
+r:"^[ ]*Don't forget to refill some amunition before going to war (.+?)[ ]*!+[.]?$"	上战场前别忘了补充弹药，$1！	
+r:"^[ ]*Have some item to sell[?] Go here (.+?)[ ]*[.]?$"	有东西要卖？来这里，$1。	
+r:"^[ ]*Have some item to sell[?] Go here (.+?)[ ]*!+[.]?$"	有东西要卖？来这里，$1！	
+r:"^[ ]*Here is some sample item to test it out (.+?)[ ]*[.]?$"	这里有些样品，拿去试试吧，$1。	
+r:"^[ ]*Here is some sample item to test it out (.+?)[ ]*!+[.]?$"	这里有些样品，拿去试试吧，$1！	
+r:"^[ ]*Let's get to the basic (.+?)[ ]*[.]?$"	我们从基础开始吧，$1。	
+r:"^[ ]*Let's get to the basic (.+?)[ ]*!+[.]?$"	我们从基础开始吧，$1！	
+r:"^[ ]*Try to pick up some weapons and shoot em all up (.+?)[ ]*[.]?$"	试着捡起一些武器，把它们统统打爆，$1。	
+r:"^[ ]*Try to pick up some weapons and shoot em all up (.+?)[ ]*!+[.]?$"	试着捡起一些武器，把它们统统打爆，$1！！！	已实测格式
+r:"^[ ]*Welcome to the Vehicle Section (.+?)[ ]*[.]?$"	欢迎来到载具区，$1。	
+r:"^[ ]*Welcome to the Vehicle Section (.+?)[ ]*!+[.]?$"	欢迎来到载具区，$1！	
+r:"^[ ]*Also you are able to enter any Tower you want, let's test it out on the firing range (.+?)[ ]*[.]?$"	你也可以进入任何塔楼，$1，去射击场试试吧。	
+r:"^[ ]*Also you are able to enter any Tower you want, let's test it out on the firing range (.+?)[ ]*!+[.]?$"	你也可以进入任何塔楼，$1，去射击场试试吧！	
+r:"^[ ]*Wow, i'm suprised you could find me here (.+?)[ ]*[.]?$"	哇，$1，真没想到你能在这儿找到我。	
+r:"^[ ]*Wow, i'm suprised you could find me here (.+?)[ ]*!+[.]?$"	哇，$1，真没想到你能在这儿找到我！	
+r:"^[ ]*Welcome to the Builder Post Section (.+?)[ ]*[.]?$"	欢迎来到建造岗位，$1。	
+r:"^[ ]*Welcome to the Builder Post Section (.+?)[ ]*!+[.]?$"	欢迎来到建造岗位，$1！	
+训练营对话：句中插入按键
+r:"^[ ]*Also you could go to First-Person-Aim mode[.] While aiming with your weapon and then press {KEY}[.]?$"	你还可以进入第一人称瞄准模式：用武器瞄准时再按{KEY}。	已实测格式
+r:"^[ ]*You also need to crouch or prone to finish this Obstacle Course by pressing {KEY}[.]?$"	你还需要按{KEY}蹲下或卧倒，才能通过这条障碍训练场。	已实测格式
+r:"^[ ]*To manage your inventory item press {KEY}[.]?$"	按{KEY}管理物品栏。	已实测格式
+r:"^[ ]*You need to jump and get that precious medal[.] Press {KEY} ?to jump[.]?$"	你需要跳起来拿到那枚珍贵的勋章。按{KEY}跳跃。	
+r:"^[ ]*Some of our allies still molded into one piece, try to revive them with {KEY}[.]?$"	我们有些战友的塑料身躯还完好无损，试着用{KEY}救活他们。	
+r:"^[ ]*Some of our allies still molded into one piece, try to revive them with (?!:)(.+?)[.]?$"	我们有些战友的塑料身躯还完好无损，试着用 $1 救活他们。	插入物品名（通用）
+r:"^[ ]*Some of our allies still molded into one piece, try to revive them with Plastic Gun[.]?$"	我们有些战友的塑料身躯还完好无损，试着用塑料枪救活他们。	已实测格式
+r:"^[ ]*Build your Special Unit on available Builder icon {KEY}[.]?$"	在可用的建造图标{KEY}上建造你的特殊单位。	
+r:"^[ ]*Press {KEY} ?to enter Map Mode[.]?$"	按{KEY}进入地图模式。	
+r:"^[ ]*One last thing, you could enter Map Mode to control all Troops coordination[.]\n[ ]*Press {KEY} ?to enter Map Mode[.]?$"	最后一件事，你可以进入地图模式，统一指挥所有部队。\n按{KEY}进入地图模式。	已实测格式（两句合成一页）
+属性卡片（玩具英雄档案、商店、小队成员悬停卡）：名称查表翻译，数值原样
+sr:"^NAME: (?<name>[^\n]+)\nVALUE: (?<v_i>[^\n]+)\nHP: (?<hp_i>[^\n]+)\nMOVEMENT SPEED: (?<ms_i>[^\n]+)\nDAMAGE: (?<d_i>[^\n]+)\nRANGE: (?<r_i>[^\n]+)\nXP: (?<xp_i>[^\n]+)(?!(?s:.))$"	名称：${name}\n价值：${v_i}\n生命值：${hp_i}\n移动速度：${ms_i}\n伤害：${d_i}\n射程：${r_i}\n经验：${xp_i}	兵种
+sr:"^NAME: (?<name>[^\n]+)\nVALUE: (?<v_i>[^\n]+)\nHP: (?<hp_i>[^\n]+)\nMOVEMENT SPEED: (?<ms_i>[^\n]+)\nDAMAGE: (?<d_i>[^\n]+)\nRANGE: (?<r_i>[^\n]+)(?!(?s:.))$"	名称：${name}\n价值：${v_i}\n生命值：${hp_i}\n移动速度：${ms_i}\n伤害：${d_i}\n射程：${r_i}	兵种（无经验行）
+sr:"^NAME: (?<name>[^\n]+)\nVALUE: (?<v_i>[^\n]+)\nHP: (?<hp_i>[^\n]+)\nDAMAGE: (?<d_i>[^\n]+)\nRANGE: (?<r_i>[^\n]+)(?!(?s:.))$"	名称：${name}\n价值：${v_i}\n生命值：${hp_i}\n伤害：${d_i}\n射程：${r_i}	塔楼（推测）
+sr:"^NAME: (?<name>[^\n]+)\nVALUE: (?<v_i>[^\n]+)\nDAMAGE: (?<d_i>[^\n]+)(?!(?s:.))$"	名称：${name}\n价值：${v_i}\n伤害：${d_i}	武器、地雷
+sr:"^NAME: (?<name>[^\n]+)\nVALUE: (?<v_i>[^\n]+)(?!(?s:.))$"	名称：${name}\n价值：${v_i}	帽子、背包等
+社区作品署名
+r:"^BY (.+)$"	作者：$1	推荐面板；作者名不翻
+属性栏单行（第六轮）：游戏分几次拼接属性栏并读回已翻译的文本，整块规则只能匹配到中间状态，所以每行再单独兜底。
+每段以换行结尾（如 "VALUE: 1,300\n"），.NET 的 $ 会在换行前匹配，替换后换行就丢了，下一段会粘上来；所以显式捕获末尾换行 $2 并原样输出。
+r:"^VALUE: ([^\n]+)(\n?)(?!(?s:.))$"	价值：$1$2
+r:"^HP: ([^\n]+)(\n?)(?!(?s:.))$"	生命值：$1$2
+r:"^MOVEMENT SPEED: ([^\n]+)(\n?)(?!(?s:.))$"	移动速度：$1$2
+r:"^DAMAGE: ([^\n]+)(\n?)(?!(?s:.))$"	伤害：$1$2
+r:"^RANGE: ([^\n]+)(\n?)(?!(?s:.))$"	射程：$1$2
+r:"^XP: ([^\n]+)(\n?)(?!(?s:.))$"	经验：$1$2

@@ -1,0 +1,91 @@
+src	zh	note
+战斗 HUD、物品栏、游戏代码里硬编码的提示（拼接类见 00_regex.tsv）
+Pvt.	列兵
+HQ IS DESTROYED	总部已被摧毁
+MISSION FAILED	任务失败
+SHOW DEAD SQUAD	显示阵亡小队成员
+★CONFIRM HERO★	★确认英雄★
+ ★ HERO ★ 	 ★ 英雄 ★
+NO SPAWN POINT / SPAWN BLOCKED	无生成点 / 生成位置被阻挡
+MAX SPAWN	已达生成上限
+MAX LEVEL+	满级+
+Promotion Rank	晋升军衔
+Squad Extra HP+	小队额外生命值+
+Squad Max HP+	小队最大生命值+
+Squad Auto Revive+	小队自动复活+
+Squad Auto Heal+	小队自动治疗+
+Squad Damage+	小队伤害+
+*Press Enter to connect your Keyboard...	*按 Enter 连接你的键盘……
+*Press Middle Mouse Button to connect your Mouse...	*按鼠标中键连接你的鼠标……
+*Press Select/Back to connect your Gamepad...	*按 Select/Back 键连接你的手柄……
+Main Menu	主菜单
+存档与保存提示（一般以 "Unable To Save: " 开头，见正则）
+No Player in level	关卡中没有玩家
+Only Host could Save Match	只有主机可以保存对局
+Player is not standing still	玩家没有站定
+Player Driving	玩家正在驾驶
+Mission End	任务已结束
+PVP Match	PvP 对局
+Finish and Clear Wave From Enemies	请先清空本波敌人
+Start The Game	请先开始游戏
+Split-Screen save is only available in Toy-Box	分屏存档仅在玩具箱中可用
+Unable To Save Profile Progress	无法保存存档进度
+Unable To Create/Write New Profile	无法创建/写入新存档
+Unable To Load Primary Profile Data, Game Will Not Work Properly	无法读取主存档数据，游戏将无法正常运行
+Toy: The toy is Missing in Action!!!	玩具：该玩具已在行动中失踪！！！
+排行榜
+Player Kills	玩家击杀
+Total Kills	总击杀
+Highest Wave Invasion	入侵最高波次
+Win & Survive Wave Level	获胜并存活的波次
+Collected Plastics	已收集塑料
+Total Plastic Reward	塑料奖励总计
+Promotion Ranks	晋升军衔
+Total Promoted	晋升总数
+Player Wins	玩家胜场
+Total Wins	总胜场
+创意工坊与模组
+Toy-Box Map:	玩具箱地图：
+Mod:	模组：
+UPLOAD AS NEW WORKSHOP ITEM	作为新的创意工坊物品上传
+Quick Mod Tester Start Now!	快速模组测试现在开始！
+Downloading/Updating all subscribed workshop	正在下载/更新所有已订阅的创意工坊内容
+Downloading/Updating all subscribed workshop - in progress	正在下载/更新所有已订阅的创意工坊内容（进行中）
+Refresh Update Downloaded Workshop List	刷新已下载的创意工坊列表
+Uploading to Steam Workshop	正在上传到 Steam 创意工坊
+Uploaded to Steam Workshop	已上传到 Steam 创意工坊
+Upload Failed	上传失败
+error load steam preview, retry in process...	加载 Steam 预览失败，正在重试……
+error load steam preview	加载 Steam 预览失败
+loading steam preview	正在加载 Steam 预览
+Developer Only	仅限开发者
+Mod Tester	模组测试
+玩具箱分类
+Bundle Pack	组合包
+Tower & Building	塔楼与建筑
+Spawn Point	生成点
+Wave Spawner	波次生成器
+Terror Wave Spawner	恐怖波次生成器
+Air Support	空中支援
+Game Mode	游戏模式
+Terror Toy	恐怖玩具
+Map & Prop	地图与道具
+Configuration	配置
+• Wave Spawner for custom Invasion Game Mode	• 用于自定义入侵模式的波次生成器
+• Game Object for various Game Mode \n- Invasion\n- Skirmish\n- Conquest\n- PvP	• 用于各种游戏模式的游戏物体\n- 入侵\n- 遭遇战\n- 征服\n- PvP
+NPC 名牌里出现的兵种（其余兵种/道具名在第三批）
+Army Man	塑料兵
+Rifle Man	步枪兵
+Bazooka Man	火箭筒兵
+Army Tent	军用帐篷
+Survival Tent	生存帐篷
+不翻译
+Description Description Description		占位
+SARGEEEE		占位
+3840 X 2160 239HZ		分辨率
+A / W / S / D		键名
+P1 - P2		保留
+补漏（第四轮采集）
+MAX LVL. REQUIRED	需要满级	玩具英雄档案
+★ BUILDER	★ 建造者	创意工坊推荐面板
+R.T.S	即时战略（RTS）	训练营地图模式对话下的小标题

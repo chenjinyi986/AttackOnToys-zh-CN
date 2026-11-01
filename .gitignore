@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+tools/
+extracted/
+cache/
+logs/
+*.unity3d
+*.resource
+translation/source/
+translation/todo/
+workshop/build/

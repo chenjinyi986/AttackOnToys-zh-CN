@@ -1,0 +1,213 @@
+src	zh	note
+# 任务选择与简报
+SELECT MISSIONS	选择任务
+Select Missions	选择任务
+MISSION BRIEFING	任务简报
+MISSION DETAILS:	任务详情：
+MAIN OBJECTIVE:	主要目标：
+MAX PLASTIC:	塑料上限：
+START MISSION	开始任务
+MISSION COMPLETED	任务完成
+COMPLETE MAIN OBJECTIVE	完成主要目标
+COMPLETE ALL OBJECTIVES	完成所有目标
+COLLECT MAXIMUM PLASTIC	收集塑料达到上限
+COMPLETE ON EASY	以简单难度完成
+COMPLETE ON NORMAL	以普通难度完成
+COMPLETE ON HARD	以困难难度完成
+COMPLETE ON SUPER HARD	以超难难度完成
+PLAYER KILL OVER 50	玩家击杀超过 50
+FRIENDLY DEATH LESS THAN 50	友军阵亡少于 50
+DANGEROUS ENEMY TOYS	危险的敌方玩具
+EXCLUDED FRIENDLY SQUAD TOYS	不含友军小队玩具
+★ PLAYER RECOMMENDED LEVELS & SETTINGS ★	★ 玩家推荐关卡与设置 ★
+Campaign	战役
+Custom Game Mode	自定义游戏模式
+Invasion Waves	入侵波次
+Terror	恐怖
+None	无
+Defend HQ from wave of enemies invasion. The enemies Toys Nation are invading our HQ, it's your duty with your Squad to protect the HQ at all cost. Retreat to HQ after you completed defending all enemies wave or you could keep continue defending HQ to gather more Plastic from fallen enemies if necessary.	抵御一波波敌人，保卫总部。敌方玩具阵营正在进攻我们的总部，你有责任和小队一起不惜一切代价守住总部。击退所有敌军波次后即可撤回总部；如有需要，也可以继续坚守，从倒下的敌人身上收集更多塑料。
+Bring your High Level Squad and Loadouts to protect HQ at all cost.	带上你的高等级小队和装备，不惜一切代价保卫总部。
+Arthur Cutlass and Officer John are invading our HQ!	亚瑟·卡特拉斯和约翰长官正在进攻我们的总部！
+Arthur Cutlass and the Green Army Nations.	亚瑟·卡特拉斯与绿军阵营。
+D Supreme Baron Planes Squad are invading our HQ!	D 至尊男爵的飞机中队正在进攻我们的总部！
+D Supreme Baron and the Tan Army Nations.	D 至尊男爵与褐军阵营。
+Beware of dangerous and highly explosive Firework Nuke that might caught you off guard!!	小心危险且威力巨大的烟花核弹，它可能会让你措手不及！！
+Good morning Sarge! Welcome to the Army Man Boot Camp on your first day!	早上好，中士！欢迎来到塑料兵新兵训练营，这是你的第一天！
+The Army Boot Camp will teach you the very basic of Combat, Skill, and Strategy.	新兵训练营将教你战斗、技能和战略的基础知识。
+You are completely surrounded dead center and there is no way out.	你被团团包围在正中央，已经无路可退。
+# 模式说明
+The War is started between all Toys Nations. Destroy all enemies HQ to Win the War. Friendly Toys will respawn back after death, but your Squad won't.	所有玩具阵营之间的战争已经打响。摧毁所有敌方总部即可赢得战争。友军玩具阵亡后会重生，但你的小队不会。
+The War is started between all Toys Nations. Destroy all enemies HQ or Capture Territories to Win the War. Friendly Toys will respawn back after death, but your Squad won't. Capture more Plastic Generator Territories to get more Plastics for your advantages against enemies.	所有玩具阵营之间的战争已经打响。摧毁所有敌方总部或占领领地即可赢得战争。友军玩具阵亡后会重生，但你的小队不会。占领更多塑料发生器领地，获取更多塑料，取得对敌优势。
+Fight against your friends in Split Screen Mode or Play Online with STEAM® REMOTE PLAY TOGETHER! Require two player or more to start a PvP match. Any progress (XP, Medal, Squad Death) will not affect your Save Data, so give everything you got and battle your friends to death!	在分屏模式下与好友对战，或通过 STEAM® 远程同乐在线游玩！PvP 对局需要两名或以上玩家才能开始。任何进度（经验、勋章、小队阵亡）都不会影响你的存档，所以尽情拼尽全力，和好友决一死战吧！
+Toy-Box is a FreePlay Sandbox Mode, any progress (XP, Medal, Squad Death) will not affect your Save Data (Including Custom Toy Box Mode). There is no limit in Toy Box so you could create anything you want with your heart and content. Share your level creation through Workshop, Discord, and share your level creations to your friends (Open My Toy-Box Folder and find your .toybox file).	玩具箱是自由游玩的沙盒模式，任何进度（经验、勋章、小队阵亡）都不会影响你的存档（包括自定义玩具箱模式）。玩具箱没有任何限制，你可以随心所欲地创造任何东西。通过创意工坊、Discord 分享你的关卡作品，也可以分享给好友（打开“我的玩具箱文件夹”，找到你的 .toybox 文件）。
+For modder to test their mod final build result. After testing is done, you could go back to Main Menu and Upload your Mod to workshop on Mod Menu Settings.	供模组作者测试模组的最终构建效果。测试完成后，可以返回主菜单，在模组菜单设置中把你的模组上传到创意工坊。
+• in-game Cheats\n• Mods\n• Continue previously saved level	• 游戏内作弊\n• 模组\n• 继续先前保存的关卡
+Using these feature below may not submit your score to STEAM® Leaderboards & Achievements.	使用以下功能可能导致分数无法提交到 STEAM® 排行榜和成就。
+Using Mods will NOT submit your score to the Score Leaderboard.	使用模组时，你的分数不会提交到分数排行榜。
+# 任务选择卡片（运行时为大写，末尾带空格）
+BEDROOM	卧室
+BEDROOM TERROR	卧室恐怖
+BACKYARD PICNIC	后院野餐
+BACKYARD PICNIC TERROR	后院野餐恐怖
+BACKYARD PICNIC INSECT TERROR	后院野餐昆虫恐怖
+FAMILY ROOM	家庭活动室
+ATTIC CASTLE OF TERROR	阁楼恐怖城堡
+KITCHEN PARTY	厨房派对
+KITCHEN PARTY TERROR	厨房派对恐怖
+SUMMER DAYCARE	夏日托儿所
+SUMMER DAYCARE TERROR	夏日托儿所恐怖
+FRONT YARD CHRISTMAS	前院圣诞
+FRONT YARD CHRISTMAS SANTA RUSH	前院圣诞老人突袭
+BACKYARD POOL PARTY	后院泳池派对
+BACKYARD POOL PARTY TERROR	后院泳池派对恐怖
+SUMMER BEACH	夏日海滩
+TOWN PARK TERROR	城镇公园恐怖
+# 关卡全名（构建时自动补大写版本）
+Attic Boot Camp	阁楼新兵训练营
+Attic Castle of Terror Invasion	阁楼恐怖城堡入侵
+Attic ToyBox	阁楼玩具箱
+Backyard Picnic Conquest	后院野餐征服
+Backyard Picnic Insect Terror Invasion	后院野餐昆虫恐怖入侵
+Backyard Picnic Invasion	后院野餐入侵
+Backyard Picnic PvP	后院野餐 PvP
+Backyard Picnic Skirmish	后院野餐遭遇战
+Backyard Picnic Terror Invasion	后院野餐恐怖入侵
+Backyard Picnic ToyBox	后院野餐玩具箱
+Backyard Pool Party Conquest	后院泳池派对征服
+Backyard Pool Party Invasion	后院泳池派对入侵
+Backyard Pool Party PvP	后院泳池派对 PvP
+Backyard Pool Party Terror Invasion	后院泳池派对恐怖入侵
+Backyard Pool Party ToyBox	后院泳池派对玩具箱
+Basement Diorama Wars PvP	地下室沙盘战争 PvP
+Basement Diorama Wars Skirmish	地下室沙盘战争遭遇战
+Basement Diorama Wars ToyBox	地下室沙盘战争玩具箱
+Basement Prop Builder ToyBox	地下室道具搭建玩具箱
+Bedroom Invasion	卧室入侵
+Bedroom Mod Tester	卧室模组测试
+Bedroom Terror Invasion	卧室恐怖入侵
+Bedroom ToyBox	卧室玩具箱
+Billiard Room PvP	台球室 PvP
+Billiard Room Skirmish	台球室遭遇战
+Billiard Room ToyBox	台球室玩具箱
+Family Room Invasion	家庭活动室入侵
+Family Room ToyBox	家庭活动室玩具箱
+Front Yard Christmas Conquest	前院圣诞征服
+Front Yard Christmas Invasion	前院圣诞入侵
+Front Yard Christmas PvP	前院圣诞 PvP
+Front Yard Christmas Santa Rush Invasion	前院圣诞老人突袭入侵
+Front Yard Christmas ToyBox	前院圣诞玩具箱
+Grass World ToyBox	草地世界玩具箱
+Home Conquest	家园征服
+Home ToyBox	家园玩具箱
+Kitchen Party Invasion	厨房派对入侵
+Kitchen Party Terror Invasion	厨房派对恐怖入侵
+Kitchen Party ToyBox	厨房派对玩具箱
+Moon World ToyBox	月球世界玩具箱
+Snow World ToyBox	雪地世界玩具箱
+Summer Beach Invasion	夏日海滩入侵
+Summer Beach ToyBox	夏日海滩玩具箱
+Summer Daycare Conquest	夏日托儿所征服
+Summer Daycare Invasion	夏日托儿所入侵
+Summer Daycare PvP	夏日托儿所 PvP
+Summer Daycare Terror Invasion	夏日托儿所恐怖入侵
+Summer Daycare ToyBox	夏日托儿所玩具箱
+Town Park Arthur Invasion	城镇公园亚瑟入侵
+Town Park Arthur VS Baron Skirmish	城镇公园亚瑟 VS 男爵遭遇战
+Town Park Baron Invasion	城镇公园男爵入侵
+Town Park PvP	城镇公园 PvP
+Town Park Terror Invasion	城镇公园恐怖入侵
+Town Park ToyBox	城镇公园玩具箱
+Water World Mod Tester	水世界模组测试
+Water World ToyBox	水世界玩具箱
+Mod Tester #Developer Only	模组测试 #仅限开发者
+ToyBox	玩具箱
+# 地图时段与天气
+Morning	早晨
+Daytime	白天
+Afternoons	下午
+Night	夜晚
+Moon Night	月夜
+Default Weather	默认天气
+Christmas Toys	圣诞玩具
+# 战斗 HUD
+HEADQUARTERS	总部
+PREPARE YOUR DEFENSES	准备防御
+WAVE	波次
+SQUAD DOWN	小队成员倒下
+SQUAD DEAD	小队成员阵亡
+Squad Down	小队成员倒下
+Squad Dead	小队成员阵亡
+HQ Under Attack	总部遭到攻击
+Buy Item & Ammo	购买物品与弹药
+Win Medal	胜利勋章
+GREEN WIN	绿色阵营获胜
+Hey Sarge! Go here to buy weapons, equipments and assemble your own Squad to battle!	嘿，中士！来这里购买武器和装备，组建你自己的小队投入战斗！
+# 玩具箱
+SPAWN	生成
+SPAWN MODE	生成模式
+LOCK	锁定
+IGNORE LOCK	忽略锁定
+SWITCH	切换
+HEIGHT	高度
+FORWARD	前后
+HORIZONTAL	水平
+VERTICAL	垂直
+NORMAL	普通
+SLOW MOVE	慢速移动
+PRO-MODE	专业模式
+PRO Mode	专业模式
+EXTENSIONS	扩展
+TRANSFORM SCALABLE	可缩放变换
+Center Mode Position	中心模式定位
+Pivot Mode Position	轴心模式定位
+Object pivot will always be at center of the object.	物体轴心始终位于物体中心。
+Help player to accurately put big object with precise position. (Bed, Wardrobe, Table, ...)	帮助玩家精确放置大型物体。（床、衣柜、桌子……）
+Show AI Path	显示 AI 路径
+• Might cause pathfinding issue. Please do check AI Path frequently while using this feature.	• 可能导致寻路问题。使用此功能时请经常检查 AI 路径。
+DELETE MOVEABLE TOYS	删除可移动玩具
+DELETE TOWER TOYS	删除塔楼玩具
+DELETE TRAP TOYS	删除陷阱玩具
+BATTLE SETTINGS	战斗设置
+SKIRMISH & CONQUEST - OPPONENT SETTINGS\n	遭遇战与征服 - 对手设置\n
+This will affect custom Skirmish & Conquest only.	仅影响自定义遭遇战和征服。
+Copy & Save Toy-Box Objects	复制并保存玩具箱物体
+Paste Saved Toy-Box Objects	粘贴已保存的玩具箱物体
+• Use Transform Mode\n• Select desired objects\n• Press this Button to save selected objects.	• 使用变换模式\n• 选中想要的物体\n• 按下此按钮保存所选物体。
+• Paste previously saved Toy-Box objects. Please use Center Mode Position & Normal or Slow Mode Speed\n\n★ With this feature you could transfer Toy-Box objects from different save file.\n\n★ Creating endless possibility and possible collaboration between Toy-Box Builder & other Creator.	• 粘贴先前保存的玩具箱物体。请使用中心模式定位，并搭配普通或慢速移动速度。\n\n★ 借助此功能，你可以在不同存档之间转移玩具箱物体。\n\n★ 为玩具箱建造者与其他创作者带来无限可能与合作机会。
+• Transform Mode group select is now able to select all object, even if that object in Locked State.	• 变换模式的框选现在可以选中所有物体，即使物体处于锁定状态。
+• Unlock Full Rotation functions.\n• Unlock Full Scale functions.\n• Unlock Pro-Mode Extension Tab.	• 解锁完整旋转功能。\n• 解锁完整缩放功能。\n• 解锁专业模式扩展标签页。
+My Toy-Box	我的玩具箱
+MY TOY-BOX FOLDER	我的玩具箱文件夹
+# 模组与创意工坊
+My Mod	我的模组
+MY MOD FOLDER	我的模组文件夹
+LOADING MOD DATA	正在加载模组数据
+MOD:\nCREATOR:\nAPP VERSION:\nDATE:	模组：\n作者：\n游戏版本：\n日期：
+✓ ACTIVE	✓ 已启用
++ WORKSHOP	+ 创意工坊
+✔ SUBSCRIBED WORKSHOP	✔ 已订阅的创意工坊
+Update and refresh all subscribed workshop.	更新并刷新所有已订阅的创意工坊内容。
+UPDATE WORKSHOP	更新创意工坊
+UPLOAD	上传
+UPLOAD IS READY	可以上传
+Old workshop file will be replaced with the latest version.	旧的创意工坊文件将被替换为最新版本。
+By submitting this item, you agree to the	提交此物品即表示你同意
+workshop terms of service	创意工坊服务条款
++ EDIT THUMBNAIL	+ 编辑缩略图
+✔ N7T-GAMES WORKSHOP RECOMMENDATION	✔ N7T-GAMES 创意工坊推荐
+TOY-BOX & MOD Creations that are recommended by N7T-GAMES.	N7T-GAMES 推荐的玩具箱与模组作品。
+TOY-BOX Creations by Master Role or Builder Role from Attack on Toys Discord.\n*Manually selected by N7T-GAMES.	来自《玩具大进攻》Discord 中“大师”或“建造者”身份组成员的玩具箱作品。\n*由 N7T-GAMES 人工挑选。
+MOD Creations by Mod Builder Role from Attack on Toys Discord.\n*Manually selected by N7T-GAMES.	来自《玩具大进攻》Discord 中“模组作者”身份组成员的模组作品。\n*由 N7T-GAMES 人工挑选。
+▶ YOUTUBERS LET'S PLAY VIDEO	▶ YouTuber 实况视频
+TOY-BOX or Mod Let' Play Video from various YouTubers.\n*Creations & Video is manually selected by N7T-GAMES.	来自各位 YouTuber 的玩具箱或模组实况视频。\n*作品与视频由 N7T-GAMES 人工挑选。
+玩具箱地图卡片（只有地名，第三批补充）
+Basement Prop Builder	地下室道具搭建	
+Grass World	草地世界	
+Water World	水世界	
+Snow World	雪地世界	
+Moon World	月球世界	
+Attic	阁楼	
+Basement Diorama Wars	地下室沙盘战争	
+Home	家园	
+Billiard Room	台球室	
+Town Park	城镇公园	

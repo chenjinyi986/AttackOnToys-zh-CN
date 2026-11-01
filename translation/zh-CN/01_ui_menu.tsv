@@ -1,0 +1,386 @@
+src	zh	note
+# 启动与主菜单
+Attack on Toys is now in Early Access State.\r\n\r\nPlease feel free to leave any feedback and suggestion\nin STEAM® Discussions Community to improve the Game in future update.\r\n\r\nSave Data may not be compatible in future version.\r\n\r\nThank you! for your Support!	《玩具大进攻》目前处于抢先体验阶段。\r\n\r\n欢迎在 STEAM® 讨论区留下反馈和建议，\n帮助我们在后续更新中改进游戏。\r\n\r\n存档数据可能与未来版本不兼容。\r\n\r\n感谢你的支持！
+LOW FPS DETECTED!	检测到帧率过低！
+SET GRAPHICS TO LOWER QUALITY\nAND DISABLE SOME FEATURE	降低画质\n并关闭部分功能
+CONTINUE	继续
+(LOW FPS MIGHT CAUSE GAME ISSUE & CRASH)	（帧率过低可能导致游戏异常甚至崩溃）
+Press Enter to continue . . .	按 Enter 继续 . . .
+ATTACK ON TOYS	玩具大进攻
+CREDITS	制作人员
+# RANK	# 排名
+PLAYER NAME	玩家名称
+SCORES	分数
+BY N7T-GAMES	作者：N7T-GAMES
+BY STINVILLE	作者：STINVILLE
+✪ MASTER BUILDER	✪ 建造大师
+★ MOD BUILDER	★ 模组作者
+✪ TOY-BOX: MASTER &	✪ 玩具箱：大师 &
+BUILDER	建造者
+MULTIPLAYER LAN	局域网多人
+INVASION	入侵
+TOY-BOX	玩具箱
+CONQUEST	征服
+SKIRMISH	遭遇战
+LOAD SAVE	读取存档
+PLAY	开始游戏
+EXIT	退出
+CONFIRM EXIT	确认退出
+Are you sure you want to \nexit the mission / game?	确定要\n退出任务 / 游戏吗？
+YES	是
+NO	否
+CONFIRM	确认
+CLOSE	关闭
+APPLY	应用
+SELECT	选择
+NEXT	下一步
+SKIP	跳过
+RETURN	返回
+RESET	重置
+DELETE	删除
+REMOVE	移除
+DUPLICATE	复制
+REFRESH	刷新
+LOADING	加载中
+LOAD	读取
+SAVE	保存
+SAVE SUCCESSFUL	保存成功
+SAVE SUCCESSFUL!	保存成功！
+UPDATING...	更新中...
+READY	准备就绪
+ACTIVATE	启用
+FOLDER	文件夹
+PHOTO	拍照
+# 制作人员
+DEVELOPER TEAM	开发团队
+MUSIC	音乐
+SOUNDS	音效
+FONTS	字体
+ADD-ONS	附加素材
+ATTACK ON TOYS. CREATED AND PUBLISHED BY N7T-GAMES. 2018 - UNTIL NOW.\nTHANK YOU FOR ALL THE FANS WHO KEEP SUPPORTING ATTACK ON TOYS DEVELOPMENT!	《玩具大进攻》由 N7T-GAMES 制作并发行。2018 年至今。\n感谢所有一直支持《玩具大进攻》开发的玩家！
+Attack on Toys. The Journey of Toys begin now.	《玩具大进攻》，玩具们的旅程现在开始。
+# 设置：标签页
+GENERAL	常规
+GRAPHICS	图形
+PERFORMANCE	性能
+KEY BINDING	按键绑定
+FEATURES	功能
+GENERAL SETTINGS	常规设置
+PREFERRED GAME RULES	偏好游戏规则
+# 设置：常规
+MASTER VOLUME	主音量
+MUSIC VOLUME	音乐音量
+AIM SENSITIVITY	瞄准灵敏度
+INVERT-Y AXIS	Y 轴反转
+INVERT-Y: OFF	Y 轴反转：关
+INVERT-Y: ON	Y 轴反转：开
+HIT MARKER	命中标记
+DAMAGE INDICATOR	伤害指示
+SHOW PLAYER HUD	显示玩家 HUD
+GAMEPAD UI	手柄界面
+GAMEPAD UI - AUTO	手柄界面 - 自动
+PLAYER DATA LOCATION	玩家数据位置
+My User C:/	我的用户目录 C:/
+Local Game Folder	本地游戏文件夹
+RESET ALL SETTINGS	重置所有设置
+Reset All Settings to original default value.	将所有设置恢复为初始默认值。
+Except Keybinding.	按键绑定除外。
+TOGGLE SPRINT	切换式冲刺
+THIRD PERSON FOV	第三人称视野
+FIRST PERSON FOV+	第一人称视野+
+MAP MODE FOV	地图模式视野
+FOV	视野
+SPLIT SCREEN	分屏
+SPLIT SCREEN - PLAYER SETUP	分屏 - 玩家设置
+SPLIT SCREEN UI SIZE	分屏界面大小
+SPLIT SCREEN - 3D AUDIO	分屏 - 3D 音效
+SPLIT SCREEN - GRAPHICS QUALITY	分屏 - 画质
+SPLIT SCREEN - ANTI ALIASING	分屏 - 抗锯齿
+SPLIT SCREEN - LOD VIEW DISTANCE	分屏 - LOD 视距
+SPLIT SCREEN - LOD STATIC VIEW DISTANCE	分屏 - 静态物体 LOD 视距
+SPLIT SCREEN - RESOLUTION SCALE	分屏 - 分辨率缩放
+SPLIT SCREEN - TROOP HUD QUANTITY	分屏 - 部队 HUD 数量
+# 设置：图形与性能
+FULL SCREEN	全屏
+SCREEN RESOLUTIONS	屏幕分辨率
+GRAPHICS QUALITY	画质
+ANTI ALIASING	抗锯齿
+TEXTURE	纹理
+DYNAMIC SHADOWS	动态阴影
+STATIC SHADOWS	静态阴影
+AMBIENT OCCULSION	环境光遮蔽
+REFLECTION *HIGH-END GPU REQUIRED	反射 *需要高端显卡
+LOD VIEW DISTANCE	LOD 视距
+LOD STATIC OBJECTS VIEW DISTANCE	静态物体 LOD 视距
+CONTRAST	对比度
+SATURATION	饱和度
+POST EXPOSURE EV	后期曝光 EV
+MAX FPS / V-SYNC	最大帧率 / 垂直同步
+VSYNC 1-FRAME	垂直同步 1 帧
+VSYNC 2-FRAME	垂直同步 2 帧
+VSYNC 3-FRAME	垂直同步 3 帧
+VSYNC 4-FRAME	垂直同步 4 帧
+PHYSIC EXPLOSION	物理爆炸
+DEAD TOY DISAPPEAR TIME	阵亡玩具消失时间
+DAMAGE IMPACT DECAL TIME	弹痕贴花持续时间
+PHOTO MODE	拍照模式
+OFF	关
+ON	开
+AUTO	自动
+DEFAULT	默认
+VERY LOW	极低
+LOW	低
+MEDIUM	中
+HIGH	高
+VERY HIGH	极高
+ULTRA	超高
+SUPER ULTRA	顶级
+# 设置：按键绑定
+DEFAULT SETTINGS IS THE MOST OPTIMIZED WAY TO PLAY.\nCHANGING KEY BINDINGS MAY AFFECT GAMEPLAY EXPERIENCE.	默认设置是最佳的游玩方式。\n修改按键绑定可能影响游戏体验。
+RESET KEY BINDINGS	重置按键绑定
+REBIND KEYBOARD & MOUSE	重新绑定键盘与鼠标
+ENTER KEY TO REBIND ACTION	按下按键以重新绑定操作
+PRESS "ESCAPE" TO CANCEL	按“ESCAPE”取消
+KEYBOARD & MOUSE	键盘与鼠标
+GAMEPAD	手柄
+CONTROLS	操作
+PLAYER CONTROLS	玩家操作
+PLAYER VEHICLE CONTROLS	载具操作
+MAP CONTROLS	地图操作
+MENU & BASIC CONTROLS	菜单与基础操作
+TOYBOX CONTROLS	玩具箱操作
+MOVEMENT	移动
+MOUSE LOOK	鼠标视角
+JUMP	跳跃
+CROUCH	蹲下
+INVENTORY	物品栏
+MAP	地图
+INTERACT	互动
+LEFT TAB	左标签页
+RIGHT TAB	右标签页
+DROP WEAPON	丢弃武器
+PRIMARY GRENADE	主手雷
+SECONDARY GRENADE	副手雷
+FIRST PERSON AIM	第一人称瞄准
+PRIMARY ITEM	主要物品
+SECONDARY ITEM	次要物品
+BACKPACK ITEM	背包物品
+SPRINT	冲刺
+AIM	瞄准
+SHOOT	射击
+DIRECTIONAL-PAD	方向键
+COMMAND TOWER DEPLOY	指挥塔楼部署
+SWIM DOWN	下潜
+CAMERA HEIGHT	镜头高度
+CAMERA ROTATE	镜头旋转
+SPRINT ACTION	冲刺动作
+SELECTING UNIT	选择单位
+COMMAND UNIT	指挥单位
+SQUAD ATTACK	小队进攻
+SQUAD FOLLOW	小队跟随
+SQUAD STAY	小队驻守
+SQUAD DEPLOY	小队部署
+SQUAD LANDING	小队着陆
+HOVER UP	悬停上升
+HOVER DOWN	悬停下降
+MOUSE SCROLL	鼠标滚轮
+OPEN SCREENSHOT FOLDER	打开截图文件夹
+PAUSE	暂停
+HOTKEY PHOTO MODE	拍照模式快捷键
+LEFT CLICK	鼠标左键
+GAMEPAD UI LEFT CLICK	手柄界面确认
+GAMEPAD UI SLIDER	手柄界面滑块
+GAMEPAD MOUSE	手柄模拟鼠标
+ROTATE OBJECT HORIZONTAL	水平旋转物体
+ROTATE OBJECT VERTICAL	垂直旋转物体
+ROTATE OBJECT FORWARD	前后旋转物体
+RESET OBJECT	重置物体
+ADJUST OBJECT HEIGHT	调整物体高度
+ADJUST OBJECT HEIGHT TOYS	调整玩具高度
+CHANGE NATION	切换阵营
+CHANGE MOVEMENT MODE	切换移动模式
+LOCK OBJECT	锁定物体
+ MOUSE LEFT BUTTON	 鼠标左键	键名
+ MOUSE RIGHT BUTTON	 鼠标右键	键名
+ MOUSE MIDDLE BUTTON	 鼠标中键	键名
+ DELTA	 鼠标移动	键名
+ SCROLL-Y /  SCROLL-Y 	 滚轮 /  滚轮 	键名
+ UP ARROW /  DOWN ARROW /  LEFT ARROW /  RIGHT ARROW 	 ↑ /  ↓ /  ← /  → 	键名
+# 游戏规则
+DIFFICULTY	难度
+Easy	简单
+Normal	普通
+Hard	困难
+Super Hard	超难
+PLAYER NATION	玩家阵营
+ENEMY NATION	敌方阵营
+WAR SCALE	战争规模
+WAR SCALE MUST BE SET TO [ 1 ] TO SAVE ANY PROGRESS	战争规模必须设为 [ 1 ] 才能保存进度
+ANY PROGRESS AND REWARD WON'T BE SAVED: WAR SCALE MUST BE SET TO [ 1 ]	进度和奖励都不会保存：战争规模必须设为 [ 1 ]
+# 阵营颜色
+GREEN	绿色
+TAN	褐色
+Grey	灰色
+Blue	蓝色
+Red	红色
+Black	黑色
+Purple	紫色
+Orange	橙色
+NATION	阵营
+GREEN NATION	绿色阵营
+TAN NATION	褐色阵营
+GREY NATION	灰色阵营
+BLUE NATION	蓝色阵营
+RED NATION	红色阵营
+BLACK NATION	黑色阵营
+PURPLE NATION	紫色阵营
+ORANGE NATION	橙色阵营
+LEADING NATION	领先阵营
+CUSTOM PLAYER NATION	自定义玩家阵营
+Change player preferred nation team color for custom map.	更改玩家在自定义地图中偏好的阵营颜色。
+TEAM NATION GROUP BATTLE	阵营团队对战
+# 存档与玩家进度
+SELECT PROFILE	选择存档
+SELECTED PROFILE	当前存档
+NEW PROFILE	新建存档
+LOAD PROFILE	读取存档
+LOAD GAME	读取游戏
+PROFILE	存档
+Create a copy of your Profile save data.	为你的存档数据创建一份副本。
+OPEN SAVE FOLDER	打开存档文件夹
+QUICK LOAD SAVE	快速读档
+Recommended to use separate Profile Save data instead of your Primary Save Data.	建议使用单独的存档，而不是你的主存档。
+Player will NOT receive any Plastic reward, some achievement and also leaderboard score when loading previous save game data.	读取先前的存档数据时，玩家将不会获得任何塑料奖励、部分成就以及排行榜分数。
+Load previous save game data will only unlock Medals, Mission Objectives, and XP progression.	读取先前的存档数据只会解锁勋章、任务目标和经验进度。
+You might not able to get it back ever.	你可能再也无法找回它了。
+PLAYER PROGRESS	玩家进度
+LEVEL EXPERIENCE	等级经验
+Reset Level & XP to Zero	将等级和经验重置为零
+TOYS HERO PROFILE	玩具英雄档案
+Player Info	玩家信息
+XP	经验
+COLLECTED PLASTIC	已收集塑料
+COLLECTED PLASTIC:	已收集塑料：
+NO PLAYER	无玩家
+No Player	无玩家
+LEVEL:\nDIFFICULTY:\nMODE:\nPLAYER:\nNATION:\nVERSION:\nTIME:	关卡：\n难度：\n模式：\n玩家：\n阵营：\n版本：\n时间：
+DIFFICULTY\nPLAYER KILL\nFRIENDLIES DEATH\nMY SQUAD DEATH	难度\n玩家击杀\n友军阵亡\n我的小队阵亡
+HP\nXP\nLEVEL\nDAMAGE+\nPROMOTED★\nPLASTIC /MATCH\nMEDAL	生命值\n经验\n等级\n伤害+\n已晋升★\n塑料/每局\n勋章
+CLASS NAME\nNAME\nHP\nXP\nLEVEL\nDAMAGE+\n\nMEDAL FOUND\nPLAYER KILL\nFRIENDLY DEATH\n\nSQUAD AUTO REVIVE	兵种\n名称\n生命值\n经验\n等级\n伤害+\n\n找到的勋章\n玩家击杀\n友军阵亡\n\n小队自动复活
+# 小队与升级
+MY SQUAD	我的小队
+SQUAD	小队
+SOLDIER	士兵
+VEHICLE	载具
+AIR	空中
+WATER	水上
+ITEM	物品
+Ability	能力
+Weapon	武器
+Grenade	手雷
+Supply	补给
+HAT	帽子
+BACKPACK	背包
+GRENADE LAUNCHER	榴弹发射器
+Gear	装备
+PROMOTE	晋升
+PROMOTED	已晋升
+MAX LVL REQUIRED	需要满级
+UPGRADE	升级
+UPGRADE+	升级+
+UPGRADE SQUAD+	升级小队+
+UPGRADE SQUAD ABILITY	升级小队能力
+SQUAD EXTRA HP+	小队额外生命值+
+HIDE DEAD SQUAD	隐藏阵亡小队成员
+Increase My Squad capacity\nIncrease Extra Plastic /Match	提升我的小队容量\n提升每局额外塑料
+Increase Max HP to help squad long term survivability in battle.	提升最大生命值，增强小队在战斗中的持久生存能力。
+Increase Extra HP that act as a shield. Extra HP only active once at the very start of the spawn.	增加作为护盾的额外生命值。额外生命值仅在出生时生效一次。
+Increase all squad weapon damage.	提升所有小队成员的武器伤害。
+Heal wounded squad automatically. Doesn't heal dying squad.	自动治疗受伤的小队成员。不会治疗濒死的成员。
+Revive dying squad on battle automatically.	战斗中自动复活濒死的小队成员。
+Open your inventory to check Auto Revive chance while in battle.	战斗中打开物品栏可查看自动复活几率。
+Upgrade up to +200% from original Damage.	最多可提升至原始伤害的 +200%。
+Upgrade up to +250% from original MAX HP.	最多可提升至原始最大生命值的 +250%。
+Upgrade up to +300% from original HP.	最多可提升至原始生命值的 +300%。
+Upgrade up to +250% auto healing speed.	自动治疗速度最多可提升 +250%。
+Melt your squad for plastic coin.	把小队成员熔成塑料币。
+NOT ENOUGH PLASTIC	塑料不足
+ATTACK	进攻
+FOLLOW	跟随
+STAY	驻守
+DEPLOY	部署
+LANDING	着陆
+DEMOLISH	拆除
+PVT.	列兵
+Pvt	列兵
+Pfc	一等兵
+Spc	专业兵
+Cpl	下士
+Sgt	中士
+Cpt	上尉
+STANDING	站立
+CROUCHING	蹲伏
+PRONE	卧倒
+#STANDING	#站立
+#CROUCHING	#蹲伏
+#PRONE	#卧倒
+PLAYER	玩家
+# Primary Weapon	# 主武器
+# Ability Weapon	# 能力武器
+# Grenade / Throwable	# 手雷 / 投掷物
+# Hat	# 帽子
+# Backpack	# 背包
+Creature	生物
+# 分屏与远程同乐
+STEAM® REMOTE PLAY TOGETHER!	STEAM® 远程同乐！
+Play Online Split Screen with Friends using	与好友在线分屏游玩，使用
+Bring a copy of your Profile save data to your close friend house or use STEAM® Remote Play Together... and enjoy playing Split-Screen with your friends!	把你的存档数据复制一份带到好友家，或使用 STEAM® 远程同乐……和好友一起享受分屏游戏吧！
+* Require 2 or more Player to activate Split Screen Mode.\n* Adjust 'Split Screen UI Size' in the 'Pause Menu' to fit your Screen Resolution.\n* Use default Key Bindings for best experience & fair play.	* 需要 2 名或以上玩家才能启用分屏模式。\n* 可在“暂停菜单”中调整“分屏界面大小”以适配屏幕分辨率。\n* 建议使用默认按键绑定，以获得最佳体验并保证公平。
+WAITING FOR PLAYERS	等待玩家
+CREATE ROOM	创建房间
+Room - Join\n	房间 - 加入\n
+JOIN	加入
+# 帮助
+Help / Tips & Tricks	帮助 / 提示与技巧
+• Settings Hard Reset: Mess up some setting or keybinding? in this Home Main Menu,  Press & Hold 'Z+Q' on your Keyboard to reset.\n\n• Re-spawn: Stuck or glitching thru the map? Press & Hold 'Z+R'. \n\n• War Scale\r: Increase amount of Player troop and enemy troop spawn quantity in Skirmish and Conquest.\n\n• My Squad: Level up your troop and bring them to battle as your Squad. \nTroop will have permanent XP/Level and also permanent death (Buyback Required).\nOnly Toy Soldier has 'Second Chance Dying Perk'. \nHeal dying Toy Soldier to revive them.\n\n• Item Shop\r: Every All unlocked item is permanent. Customize your Toy Hero and power up your gear.\n\n• PvP & Toy-Box: Will not affect any of your save data progress and My Squad progress. Using too much light object (Lamp, Desk Lamp, ...) in Toy-Box will greatly reduce game performance.\n\n• Lock object Toy-Box: Lock spawned object. \rPrevent Player accidentally remove object. \n\n• File Data: Accidentally delete a file/save data? go to 'Player_Data/Plastic Bin' folder to retreive back your data.\n\n• STEAM® Leaderboard: Using Cheat Code during mission or Load Previous Save Game mission, that mission progress will not be submitted to the STEAM® Leaderboard.	• 强制重置设置：把设置或按键绑定弄乱了？在主菜单的基地界面按住键盘上的“Z+Q”即可重置。\n\n• 重生：卡住或穿模掉出地图？按住“Z+R”。\n\n• 战争规模：增加遭遇战和征服中玩家部队与敌方部队的生成数量。\n\n• 我的小队：提升部队等级，带他们作为你的小队参战。\n部队拥有永久的经验/等级，也会永久阵亡（需要花费赎回）。\n只有玩具兵拥有“濒死二次机会”特性。\n治疗濒死的玩具兵即可将其救回。\n\n• 物品商店：所有已解锁的物品都是永久的。自定义你的玩具英雄并强化装备。\n\n• PvP 与玩具箱：不会影响你的任何存档进度和我的小队进度。在玩具箱中使用过多发光物体（灯、台灯……）会大幅降低游戏性能。\n\n• 玩具箱锁定物体：锁定已生成的物体，防止玩家误删。\n\n• 文件数据：不小心删除了文件或存档？前往“Player_Data/Plastic Bin”文件夹找回你的数据。\n\n• STEAM® 排行榜：在任务中使用作弊码或读取先前存档的任务时，该任务进度不会提交到 STEAM® 排行榜。	超过 400 字符
+# 排行榜
+Ranks	排名
+Kills	击杀
+Wins	胜场
+Plastics	塑料
+# 不翻译
+▶ BARONVONGAMES		作者名
+'SAND TRENCH' CHAPTER 1		社区作品名
+SARGE		玩家名
+Rifle Man Army :Danu:		占位
+EZ\n99\n99\n99\n		占位
+CTL		键名
+LEFT CTRL		键名
+LCTRL		键名
+PvP		保留
+N7T-GAMES		保留
+DUALSHOCK		保留
+SWITCH PRO		保留
+XBOX		保留
+N7T: Nicholas S.\r\nAlbertus (Formerly, v1.0. 2018)\r\nNico (Formerly, v1.0. 2018)\n		制作人员
+Typodermic Fonts\r\nOlivier Mordefroid\n		制作人员
+Videvo Pro License\r\nMúsica sin Copyright\r\nMarma\r\nACOOSTIKA-BEAT\r\nandriig\r\nIgorLisul\n		制作人员
+Amplify Creations\r\nTrinary Software\r\nmickdekkers\r\nsharpaccent\r\ncakeslice\r\nFrenchfaso\r\nHiddenMonk\n		制作人员
+Bricko		人名
+Cody		人名
+Humanoid		内部
+Alpha		呼号
+Bravo		呼号
+Charlie		呼号
+Delta		呼号
+Echo		呼号
+Fox		呼号
+Golf		呼号
+Hotel		呼号
+Lv ★1		保留
+Lv ★2		保留
+Lv ★3		保留
+Lv ★4		保留
+Lv ★5		保留
+Lv ★6		保留
+Lv ★7		保留

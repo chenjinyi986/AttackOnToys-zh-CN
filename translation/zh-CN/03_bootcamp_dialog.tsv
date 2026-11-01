@@ -1,0 +1,62 @@
+src	zh	note
+阁楼新兵训练营 NPC 对话（DialogBaseScript）。游戏显示为 " " + 碎片 + "."，所以键是碎片末尾加句号；XUnity 查找时会去掉开头空格。
+带玩家名/按键插入的句子在 00_regex.tsv 的“训练营对话”一节。
+Proceed to every Bootcamp post to get training and guide.	前往训练营的每个岗位，接受训练和指导。	已实测
+*POST: Basic training and weapons.	*岗位：基础训练与武器。	已实测
+*POST: Plastic Shops.	*岗位：塑料商店。	已实测
+*POST: Heavy Weapon.	*岗位：重武器。
+*POST: Sniper.	*岗位：狙击。
+*POST: Plastic Medic Tent.	*岗位：塑料医疗帐篷。
+*POST: Obstacle Course.	*岗位：障碍训练场。
+*POST: Close Range Weapon.	*岗位：近距离武器。
+*POST: Builder.	*岗位：建造。
+*POST: Vehicles.	*岗位：载具。
+*POST: HQ.	*岗位：总部。
+Good Luck on your Training.	祝你训练顺利。
+We Medic are the most important troop to keep our Army survive from the horror of Plastic War.	我们医疗兵是最重要的兵种，让军队能在恐怖的塑料战争中活下来。
+*WARNING: PERMANENT DEATH.	*警告：永久死亡。
+Go here to shop some Weapon, Grenade, Ability, and more....	来这里购买武器、手雷、能力等等……
+Can't go to battle with empty stomach.	可不能饿着肚子上战场。
+Don't forget to refill some amunition before going to war.	上战场前别忘了补充弹药。
+FAIR PRICE!!!.	价格公道！！！
+Have some item to sell? Go here.	有东西要卖？来这里。
+Here is some sample item to test it out.	这里有些样品，拿去试试吧。
+Don't worry, HQ will able to remold you back if you are dead.	别担心，你要是阵亡了，总部能把你重新铸造出来。
+Behind me is a very dangerous Obstacle Course with explosive Land Mines!.	我身后是一条布满地雷的危险障碍训练场！
+There is up to 5 scattered Medal in the area. Medal could be useful to recruit more troop to your Main Squad..	这片区域最多散落着 5 枚勋章。勋章可以用来为你的主力小队招募更多士兵。
+Good luck!!!.	祝你好运！！！
+Let's get to the basic.	我们从基础开始。
+There are 3 different Ammunition Box.	这里有 3 种不同的弹药箱。
+Primary Ammo will replenish (2x) currently equip weapons on your both hands.	主弹药会为你双手当前装备的武器补充 2 倍弹药。
+Spread Ammo replenish (1x) all weapon in your inventory .	散装弹药会为物品栏里的所有武器补充 1 倍弹药。
+Grenade Ammo will restock all grenade from your inventory.	手雷弹药会补满物品栏里的所有手雷。
+Shooting an enemy increase your XP and will increase your Rank.	射击敌人能获得经验，并提升你的军衔。
+Rank will increase your HP and Damage.	军衔会提升你的生命值和伤害。
+Try to pick up some weapons and shoot em all up.	试着捡起一些武器，把它们统统打爆。
+i hope you didn't forget your plastic license.	希望你没忘带塑料驾照。
+Welcome to the Vehicle Section.	欢迎来到载具区。
+You could enter any Vehicle you want. Here is the key... take em for a little spin will ya.	你可以驾驶任何想开的载具。钥匙给你……开出去兜一圈吧。
+Also you are able to enter any Tower you want, let's test it out on the firing range.	你也可以进入任何塔楼，去射击场试试吧。
+use Radio for instant Air Support to specific location.	使用无线电，可以向指定位置立即呼叫空中支援。
+Also use Medal Radar to find more Medal in the area.	还可以用勋章雷达寻找这片区域里更多的勋章。
+You will need more Medal to recruit more troop to your Main Squad or maybe unlock some other good stuff too for the future battle.	你需要更多勋章，为主力小队招募更多士兵，或许还能为以后的战斗解锁其他好东西。
+Go to the Win Medal, if you already done and finish every Boot Camp Post.	如果你已经完成了训练营的所有岗位，就去拿胜利勋章吧。
+Heavy weapon are effective against vehicle enemy.	重武器对付敌方载具很有效。
+if you could handle the massive recoil... or perhaps....	前提是你扛得住巨大的后坐力……又或者……
+Need more firepower? Use dual wield weapon or throw a grenade while holding a Bazooka!!!.	需要更多火力？双持武器，或者扛着火箭筒的同时扔手雷！！！
+Pick up some of those heavy weapon, grenade, and dual wield weapon. And start to blast em all to pieces.	捡起那些重武器、手雷和双持武器，把它们统统炸成碎片。
+these leaf are useless....	这些叶子一点用都没有……
+Wow, i'm suprised you could find me here.	哇，真没想到你能在这儿找到我。
+See those targets? Pickup some sniper weapon first and then snipe them from distances.	看到那些靶子了吗？先捡起狙击武器，然后从远处狙击它们。
+Carry Flamethrower Fuel for extra degree burn!!!.	带上火焰喷射器燃料，烧得更旺！！！
+Pickup up Flamethrower and burn ALL OF EM!!!.	捡起火焰喷射器，把他们统统烧光！！！
+*Am i right or am i right? of course im right!!!.	*我说得对不对？当然对啦！！！
+Who doesn't love the burning plastic in the morning ey?.	谁不爱清晨燃烧塑料的味道呢，嗯？
+Welcome to the Builder Post Section.	欢迎来到建造岗位。
+Builder are the most imporant Item for Defense and also Offense too!.	建造包是防守和进攻中最重要的物品！
+Bigger the Squad, the better! *Will increase Offense and Defense.	小队越大越好！*能提升攻击和防御。
+Here i have some little trick for ya!.	我这儿有个小诀窍教你！
+Try to spawn two more Army Soldier and then spawn a Jeep. They will quickly form a Squad.	试着再生成两名塑料兵，然后生成一辆吉普车。他们很快就会组成一支小队。
+One last thing, you could enter Map Mode to control all Troops coordination.	最后一件事，你可以进入地图模式，统一指挥所有部队。
+Build your Special Unit on available Builder icon .	在可用的建造图标上建造你的特殊单位。
+Some of our allies still molded into one piece, try to revive them with.	我们有些战友的塑料身躯还完好无损，试着救活他们。	插入为空时

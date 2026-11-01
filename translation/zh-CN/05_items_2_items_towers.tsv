@@ -1,0 +1,401 @@
+src	zh	note
+Plastic Gun	塑料枪	ITEM | [ITEM] [WEAPON] [PRIMARY] BlocksMan Plastic Gun
+Fix and patch your plastic comrade.	修补你的塑料战友。	说明：Plastic Gun
+Miner Hat	矿工帽	ITEM | [ITEM] [WEAPON] [HAT] BlocksMan Miner Hat
+Illuminate area.	照亮周围区域。	说明：Miner Hat
+AKS-70 SMG	AKS-70 冲锋枪	ITEM | [ITEM] [WEAPON] [ABILITY] ActionFigure AKS-70 Submachine Gun
+Dual wield weapon. Perfect pair with AKK Rifle!	双持武器。与 AKK 步枪是绝配！	说明：AKS-70 SMG
+MAT-49 SMG	MAT-49 冲锋枪	ITEM | [ITEM] [WEAPON] [ABILITY] ArmyMan MAT-49 Submachine Gun
+Dual wield weapon. Will get the job done quick.	双持武器。能迅速搞定任务。	说明：MAT-49 SMG
+HM-7 SMG	HM-7 冲锋枪	ITEM | [ITEM] [WEAPON] [ABILITY] ActionFigure HM-7 Submachine Gun
+Dual wield weapon. High rate of fire and ammo!	双持武器。射速高，弹药多！	说明：HM-7 SMG
+Army Tower	军用塔楼	TOWER | [TOWER] Army Tower Base
+Standard Army defense tower. Perfect to form a sniper squad at Lv.3.	标准的军用防御塔楼。Lv.3 时非常适合组建狙击小队。	说明：Army Tower
+Army Watch Tower	军用瞭望塔	TOWER | [TOWER] ActionFigure Army Watch Tower
+A Sniper assigned to this post. With height advantage, cover, and ability to respawn!!!	驻守此岗位的狙击兵。拥有高度优势和掩护，还能重生！！！	说明：Army Watch Tower
+Cowboy Hat	牛仔帽	ITEM | [ITEM] [WEAPON] [HAT] ArmyMan Cowboy Hat
+Standoff Duel.	对峙决斗。	说明：Cowboy Hat
+Protect HQ at all cost! Player can only respawn at HQ.	不惜一切代价保护总部！玩家只能在总部重生。	说明：HEADQUARTERS
+M1-THMP SMG	M1-THMP 冲锋枪	ITEM | [ITEM] [WEAPON] [PRIMARY] BlocksMan M1-THMP Submachine Gun
+Great rate of fire with balanced damage.	射速出色，伤害均衡。	说明：M1-THMP SMG
+M-60 LMG	M-60 轻机枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan M-60 LMG
+High ammo capacity. Great Rate of fire.	弹药容量大。射速出色。	说明：M-60 LMG
+PH-22 Plastic Gun	PH-22 塑料枪	ITEM | [ITEM] [WEAPON] [PRIMARY] Robot WarBot PH-22 Plastic Gun
+Fix and patch your plastic comrade. Double rate of fire!!	修补你的塑料战友。双倍射速！！	说明：PH-22 Plastic Gun
+SRL-5 Sniper	SRL-5 狙击枪	ITEM | [ITEM] [WEAPON] [PRIMARY] Robot WarBot SRL-5 Sniper
+Has super long zoom scope!	配有超远倍率瞄准镜！	说明：SRL-5 Sniper
+SP-3 SMG	SP-3 冲锋枪	ITEM | [ITEM] [WEAPON] [PRIMARY] Robot WarBot SP-3 SMG
+High Fire Rate and medium damage.	射速高，伤害中等。	说明：SP-3 SMG
+BGN-1 Beam Gun	BGN-1 光束枪	ITEM | [ITEM] [WEAPON] [PRIMARY] Robot WarBot BGN-1 Beam Gun
+High accuracy laser and high damage!	高精度激光，伤害高！	说明：BGN-1 Beam Gun
+Ray Gun	射线枪	ITEM | [ITEM] [WEAPON] [PRIMARY] SpaceAlien Alien Ray Gun
+High accuracy alien laser blaster and high damage!	高精度外星激光爆能枪，伤害高！	说明：Ray Gun
+RL-1 Rocket	RL-1 火箭筒	ITEM | [ITEM] [WEAPON] [PRIMARY] Robot WarBot RL-1 Rocket
+Effective against Vehicle and Building.	对载具和建筑很有效。	说明：RL-1 Rocket
+Pillbox	碉堡	TOWER | [TOWER] ArmyMan Pillbox Lv.1
+Perfect for long term defense. Protect most squad inside bunker from taking damage.	非常适合长期防守。掩体内的大部分小队成员可免受伤害。	说明：Pillbox
+Shovel	铲子	ITEM | [ITEM] [WEAPON] [PRIMARY] [MELEE] ArmyMan Shovel
+Bonk your enemies!	狠狠敲敌人一铲！	说明：Shovel
+M-43 Carbine Rifle	M-43 卡宾枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan M-43 Carbine Rifle
+High damage but low Fire Rate. Effective at Long Range.	伤害高但射速低。远距离作战很有效。	说明：M-43 Carbine Rifle
+Army Blueprint Builder	军用蓝图建造包	ITEM | [ITEM] [WEAPON] [ABILITY] ActionFigure Army Builder
+Build Army Action Figure infantry.	建造人偶军的步兵单位。	说明：Army Blueprint Builder
+Blocks Man Storage 2x2	积木兵仓库 2x2	TOWER | [TOWER] [SPAWNER] BlocksMan Storage 2x2 - Army Vehicle Pack
+Spawn Blocks Man vehicle and few soldiers.	生成积木兵载具和少量士兵。	说明：Blocks Man Storage 2x2
+Tank Turret	坦克炮塔	TOWER | [TOWER] BlocksMan Tank Turret Lv.2 Base
+Tank turret that has equal damage from the original Tank with increase of range and machineguns!	伤害与原版坦克相同的坦克炮塔，射程更远，还配有机枪！	说明：Tank Turret
+Incendiary Mortar	燃烧迫击炮	ITEM | [ITEM] [WEAPON] [PRIMARY] BlocksMan Incendiary Mortar
+Effective on long range & while Player taking a cover. Warning!!! Highly Flammable!!!	适合远距离作战，也适合玩家躲在掩体后时使用。警告！！！极易燃！！！	说明：Incendiary Mortar
+Incendiary Mortar x2	燃烧迫击炮 x2	ITEM | [ITEM] [WEAPON] [PRIMARY] ActionFigure Incendiary Mortar x2
+Effective on long range & while Player taking a cover. Warning!! Highly Flammable!!	适合远距离作战，也适合玩家躲在掩体后时使用。警告！！极易燃！！	说明：Incendiary Mortar x2
+P-8 Pistol	P-8 手枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan P-8 Pistol
+Medium Damage. Medium Ammo capacity.	伤害中等。弹药容量中等。	说明：P-8 Pistol
+Hook Gun	钩爪枪	ITEM | [ITEM] [WEAPON] [ABILITY] ArmyMan Hook Gun
+Hook your way to unreachable places.	勾住目标，抵达原本到不了的地方。	说明：Hook Gun
+Plastic	塑料	ITEM | [ITEM] Plastic Chunk Coin
+Guard Tower	警戒塔	TOWER | [TOWER] BlocksMan Guard Tower Lv.1
+Perfect to form a sniper squad and also has extra Spawn Point at Lv.3.	非常适合组建狙击小队，Lv.3 时还有额外的生成点。	说明：Guard Tower
+M24 Cluster Grenade	M24 集束手雷	ITEM | [ITEM] [WEAPON] [2ND] ArmyMan M24 Cluster Grenade
+Anti Vehicle Grenade. High damage and spread 6 extra grenades on detonate.	反载具手雷。伤害高，引爆时会额外散出 6 枚手雷。	说明：M24 Cluster Grenade
+Idle Grasshopper Leaf	发呆蚱蜢树叶	TOWER | [TOWER] Creature Idle Grasshopper Leaf
+Spawn idle Grasshopper that absolutely does nothing!	生成一只发呆的蚱蜢，它绝对什么都不干！	说明：Idle Grasshopper Leaf
+Sprinkler Spawner	洒水器生成器	TOWER | [TOWER] Hazard Sprinkler Spawner
+Spawn Sprinkler.	生成洒水器。	说明：Sprinkler Spawner
+CI-PHX Missiles	CI-PHX 导弹	TOWER | [TOWER] ActionFigure Army CI-PHX Missiles Lv.2
+Unleash multiple missiles!!!! Highly explosive!!!!	齐射多枚导弹！！！！爆炸威力极强！！！！	说明：CI-PHX Missiles
+SG-47 Rifle	SG-47 步枪	ITEM | [ITEM] [WEAPON] [PRIMARY] BlocksMan SG-47 Rifle
+Highly effective against soldier troop and also has high accuracy.	对士兵部队极为有效，而且精度很高。	说明：SG-47 Rifle
+AA-Turret	防空炮塔	TOWER | [TOWER] ArmyMan AA-Turret Lv.1
+Super high range and effective only at Air enemies. Very low damage against ground enemies.	射程超远，只对空中敌人有效。对地面敌人伤害极低。	说明：AA-Turret
+M-4 Burst	M-4 点射步枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan M-4 Burst
+Long range rifle with scope.	带瞄准镜的远程步枪。	说明：M-4 Burst
+Radio	无线电台	ITEM | [ITEM] [WEAPON] [BACK] ArmyMan Radio
+Call Air-Supports.	呼叫空中支援。	说明：Radio
+Vehicle Tent	载具帐篷	TOWER | [TOWER] ActionFigure Army Vehicle Tent
+Spawn heavy Army vehicles!!!!	生成重型军用载具！！！！	说明：Vehicle Tent
+Insect Barracks	昆虫兵营	TOWER | [TOWER] Creature Insect Barracks
+Spawn Tamed Cockroach and Fly.	生成驯服的蟑螂和苍蝇。	说明：Insect Barracks
+Firework Nuke Pad	烟花核弹发射台	TOWER | [TOWER] ArmyMan Firework Nuke Pad
+Spawn Firework Nuke!!! Focus targeting HQ at start.	生成烟花核弹！！！开局时优先瞄准总部。	说明：Firework Nuke Pad
+Mini Ant Colony	迷你蚁巢	TOWER | [TOWER] Creature Insect Tamed Mini Ant Colony
+Spawn Tamed Ant swarms.	生成驯服的蚁群。	说明：Mini Ant Colony
+Rat Barracks	老鼠兵营	TOWER | [TOWER] Creature Rat Barracks
+Spawn Rat Tank!!	生成老鼠坦克！！	说明：Rat Barracks
+Flamer Goggle	喷火兵护目镜	ITEM | [ITEM] [WEAPON] [HAT] Robot WarBot Flamer Goggle
+Flamer visor goggle.	喷火兵面罩式护目镜。	说明：Flamer Goggle
+Medic Helmet	医疗兵头盔	ITEM | [ITEM] [WEAPON] [HAT] Robot WarBot Medic Helmet
+War Bot Medic helmet.	战斗机器人医疗兵头盔。	说明：Medic Helmet
+Sniper Goggle	狙击护目镜	ITEM | [ITEM] [WEAPON] [HAT] Robot WarBot Sniper Goggle
+Monoeye Sniper Goggle.	单眼狙击护目镜。	说明：Sniper Goggle
+Wall Logs	原木墙	TOWER | [TOWER] ArmyMan Wall Logs Lv.1
+High health and ability to form a squad. Perfect for defense.	生命值高，可组建小队。非常适合防守。	说明：Wall Logs
+Sandbags	沙袋	TOWER | [TOWER] ArmyMan Sandbags Lv.3
+Form huge squad. Has incendiary mortar at Lv.3.	可组建大型小队。Lv.3 时配备燃烧迫击炮。	说明：Sandbags
+Boat Side Dock	侧边小艇码头	TOWER | [TOWER] [SPAWNER] ArmyMan Boat Side Dock
+Spawn Army Man water vehicles.	生成塑料兵水上载具。	说明：Boat Side Dock
+Ship Dock	船坞	TOWER | [TOWER] [SPAWNER] BlocksMan Ship Dock
+Spawn Blocks Man ships.	生成积木兵舰船。	说明：Ship Dock
+Scorpion Sand Hole	蝎子沙洞	TOWER | [TOWER] [SPAWNER] Creature Scorpion Sand Hole
+Spawn Scorpion!	生成蝎子！	说明：Scorpion Sand Hole
+Army Ship Box	军用舰船盒	TOWER | [TOWER] [SPAWNER] ActionFigure Army Ship Box
+Spawn Army Figure Ship!!!	生成人偶军舰船！！！	说明：Army Ship Box
+Army Vehicles Box	军用载具盒	TOWER | [TOWER] [SPAWNER] ActionFigure Army Vehicles Box
+Spawn Army Figure vehicle and few soldiers.	生成人偶军载具和少量士兵。	说明：Army Vehicles Box
+CLR-6 Cluster Grenade	CLR-6 集束手雷	ITEM | [ITEM] [WEAPON] [2ND] Robot WarBot CLR-6 Cluster Grenade
+Anti Vehicle Grenade. High damage and spread 6 extra grenades on detonate. Detonate on impact!	反载具手雷。伤害高，引爆时会额外散出 6 枚手雷。碰撞即爆！	说明：CLR-6 Cluster Grenade
+M7 Grenade	M7 手雷	ITEM | [ITEM] [WEAPON] [2ND] ActionFigure M7 Grenade
+A Hand Grenade.	一枚手雷。	说明：M7 Grenade
+TS-1 Grenade	TS-1 手雷	ITEM | [ITEM] [WEAPON] [2ND] Robot WarBot TS-1 Grenade
+A Stick Grenade.	一枚木柄手榴弹。	说明：TS-1 Grenade
+Space Bubble Helmet	太空泡泡头盔	ITEM | [ITEM] [WEAPON] [HAT] SpaceAlien Alien Space Bubble Helmet
+Alien Space Bubble Helmet.	外星人太空泡泡头盔。	说明：Space Bubble Helmet
+LST-12 Tank Turret	LST-12 坦克炮塔	TOWER | [TOWER] BlocksMan LST-12 Tank Turret Lv.3
+MS-7 Tank Turret	MS-7 坦克炮塔	TOWER | [TOWER] BlocksMan MS-7 Tank Turret Lv.3
+Tamed Bird Pigeon Nest	驯服鸽子窝	TOWER | [TOWER] [SPAWNER] Creature Tamed Bird Pigeon Nest
+Spawn Tamed Pigeons that will Poo Poo On You!	生成驯服的鸽子，它们会在你头上拉便便！	说明：Tamed Bird Pigeon Nest
+M-21 Sniper	M-21 狙击枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan M-21 Sniper
+Very effective against Soldier. Long range scope.	对士兵非常有效。配有远程瞄准镜。	说明：M-21 Sniper
+Mini Party Popper	迷你派对礼炮	ITEM | [ITEM] [WEAPON] [BACK] ArmyMan Mini Party Popper
+Jump & blast off into the sky.	起跳后一飞冲天。	说明：Mini Party Popper
+Alien Builder	外星人建造包	ITEM | [ITEM] [WEAPON] [ABILITY] SpaceAlien Alien Builder
+Build Alien infantry.	建造外星人的步兵单位。	说明：Alien Builder
+Army Man Builder	塑料兵建造包	ITEM | [ITEM] [WEAPON] [ABILITY] ArmyMan Builder
+Build Army Man infantry.	建造塑料兵的步兵单位。	说明：Army Man Builder
+Christmas Builder	圣诞建造包	ITEM | [ITEM] [WEAPON] [ABILITY] Christmas Builder
+Build Christmas toys. This Builder can be used by all types of toys.	建造圣诞玩具。所有类型的玩具都能使用这个建造包。	说明：Christmas Builder
+Leaf Tamed Creature Builder	树叶驯服生物建造包	ITEM | [ITEM] [WEAPON] [ABILITY] Leaf Tamed Creature Builder
+Build tamed creatures and insects. This Builder can be used by all types of toys.	建造驯服的生物和昆虫。所有类型的玩具都能使用这个建造包。	说明：Leaf Tamed Creature Builder
+M10 Sniper	M10 狙击枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ActionFigure M10 Sniper
+Semi-Automatic Sniper.	半自动狙击枪。	说明：M10 Sniper
+Igloo	冰屋	TOWER | [TOWER] [SPAWNER] Toy Igloo
+Spawn Penguin toys.	生成企鹅玩具。	说明：Igloo
+Spawn few Army Man soldiers.	生成少量塑料兵。	说明：Survival Tent
+HLB-1 Heavy Laser	HLB-1 重型激光炮	ITEM | [ITEM] [WEAPON] [PRIMARY] Robot WarBot HLB-1 Heavy Laser
+HMG-4 Beam Minigun	HMG-4 光束转管机枪	ITEM | [ITEM] [WEAPON] [PRIMARY] Robot WarBot HMG-4 Beam Minigun
+Arm mounted heavy beam minigun!!!!	臂挂式重型光束转管机枪！！！！	说明：HMG-4 Beam Minigun
+Minigun	转管机枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan Minigun
+Heavy weapons guy.	重武器专家。	说明：Minigun
+BRW-18 Rifle	BRW-18 步枪	ITEM | [ITEM] [WEAPON] [PRIMARY] BlocksMan BRW-18 Rifle
+While has low fire rate and ammo, this big boy do lot of damages!	虽然射速低、弹药少，但这个大家伙伤害惊人！	说明：BRW-18 Rifle
+Wall Fortress	城墙堡垒	TOWER | [TOWER] BlocksMan Wall Fortress Lv.1
+High health and perfect wall defenses along with bunker post.	生命值高，城墙防御完美，还带有掩体哨位。	说明：Wall Fortress
+QD-4 Rockets	QD-4 火箭炮	TOWER | [TOWER] QD-4 Rockets Lv.1
+Rapid fire rockets with long radius and high recoil.	速射火箭，作用范围大，后坐力强。	说明：QD-4 Rockets
+Produce chunk of plastic overtime in high quantity. Player able to spawn 4 more power to increase production.	随时间大量产出塑料块。玩家可额外生成 4 个能源以提高产量。	TOWER | [TOWER] Building Harvest Plastic Base
+General Hat	将军帽	ITEM | [ITEM] [WEAPON] [HAT] BlocksMan General Hat
+Three Star Rank General!	三星将军！	说明：General Hat
+Bonnie Hat	奔尼帽	ITEM | [ITEM] [WEAPON] [HAT] ArmyMan Bonnie Hat
+Keep your cool in tropical desert.	在热带沙漠中保持清凉。	说明：Bonnie Hat
+SGT Helmet	中士头盔	ITEM | [ITEM] [WEAPON] [HAT] ArmyMan SGT Helmet
+Sergeant Helmet.	中士头盔。	说明：SGT Helmet
+Sprinkler	洒水器	TOWER | [TOWER] Hazard Sprinkler
+Shoot water splash randomly.	随机喷洒水花。	说明：Sprinkler
+Medic Backpack	医疗背包	ITEM | [ITEM] [WEAPON] [BACK] BlocksMan Medic Backpack
+Automatically Heal Player & wounded Friendly toy in the area.	自动治疗区域内的玩家和受伤的友军玩具。	说明：Medic Backpack
+Stick Grenade	木柄手榴弹	ITEM | [ITEM] [WEAPON] [2ND] BlocksMan Stick Grenade
+Effective on long range & while Player taking a cover.	适合远距离作战，也适合玩家躲在掩体后时使用。	ITEM | [ITEM] [WEAPON] [PRIMARY] Mortar Base
+Builder Hat	建造兵帽	ITEM | [ITEM] [WEAPON] [HAT] BlocksMan Builder Hat
+Blocks Man Builder Hat.	积木兵的建造兵帽。	说明：Builder Hat
+Goggles	护目镜	ITEM | [ITEM] [WEAPON] [HAT] BlocksMan Goggles
+Just a regular Goggles.	就是一副普通的护目镜。	说明：Goggles
+Bunker	掩体	TOWER | [TOWER] BlocksMan Bunker Lv.2
+The best of the best for defense with extra Spawn Points!!	防守的不二之选，还有额外的生成点！！	说明：Bunker
+Tamed Scorpion Sand Hole	驯服蝎子沙洞	TOWER | [TOWER] [SPAWNER] Creature Tamed Scorpion Sand Hole
+Spawn Tamed Scorpion!	生成驯服的蝎子！	说明：Tamed Scorpion Sand Hole
+Grenade Launcher	榴弹发射器	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan Grenade Launcher
+Very effective against group of Soldier.	对成群的士兵非常有效。	说明：Grenade Launcher
+MGL-44 Launcher	MGL-44 榴弹发射器	ITEM | [ITEM] [WEAPON] [PRIMARY] ActionFigure MGL-44 Launcher
+Shoot multiple grenade and very deadly against group of enemies!	连续发射多枚榴弹，对成群的敌人极其致命！	说明：MGL-44 Launcher
+Major Officer Hat	少校军官帽	ITEM | [ITEM] [WEAPON] [HAT] ArmyMan Major Officer Hat
+High Ranking Officer.	高级军官。	说明：Major Officer Hat
+Quad Rocket	四联火箭筒	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan Quad Rocket
+Vehicle destroyer.	载具毁灭者。	说明：Quad Rocket
+Eagle Heavy Pistol	鹰式重型手枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ActionFigure Eagle Heavy Pistol
+High recoil and damage. Deadliest pistol in the plastic market!	后坐力大，伤害高。塑料市场上最致命的手枪！	说明：Eagle Heavy Pistol
+Medic Tent	医疗帐篷	TOWER | [TOWER] BlocksMan Medic Tent
+Heal surrounding friendly toy. Ability to spawn Army Medic.	治疗周围的友军玩具。可生成医疗兵。	说明：Medic Tent
+CI-PHX Anti Air	CI-PHX 防空炮	TOWER | [TOWER] ActionFigure Army CI-PHX Anti Air Lv.3
+M187 Mortar	M187 迫击炮	TOWER | [TOWER] ArmyMan M187 Mortar Lv.2
+Effective against group of enemies. Very long range. Has multiple mortar launcher.	对成群的敌人很有效。射程极远。配有多个迫击炮发射器。	说明：M187 Mortar
+Turbine Capture Point	涡轮机占领点	TOWER | [TOWER] [CAPTURE] ArmyMan Turbine Capture Point
+Capture the flag to produce plastic.	夺取旗帜即可生产塑料。	说明：Turbine Capture Point
+M-20 Bazooka	M-20 火箭筒	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan M-20 Bazooka
+M-2 Flamethrower	M-2 火焰喷射器	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan M-2 Flamethrower
+Burn and melt everything.	烧毁并熔化一切。	说明：M-2 Flamethrower
+HT-3 Flamethrower	HT-3 火焰喷射器	ITEM | [ITEM] [WEAPON] [PRIMARY] Robot WarBot HT-3 Flamethrower
+BM4 Shotgun	BM4 霰弹枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ActionFigure BM4 Shotgun
+High rate of fire to spray on horde of enemies!	高射速，适合扫射成群的敌人！	说明：BM4 Shotgun
+P-17 Sniper	P-17 狙击枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan P-17 Sniper
+Very effective and deadly against Soldier. Heavy damage against Vehicle.	对士兵非常有效且致命。对载具也能造成重创。	说明：P-17 Sniper
+M-2 Flamethrower Fuel Tank	M-2 火焰喷射器燃料罐	ITEM | [ITEM] [WEAPON] [BACK] ArmyMan M-2 Flamethrower Fuel Tank
+Reduce M-2 Flamethrower Ammo fuel usage chance by 37%.	使 M-2 火焰喷射器消耗燃料弹药的几率降低 37%。	说明：M-2 Flamethrower Fuel Tank
+HT-3 Flamethrower Fuel Tank	HT-3 火焰喷射器燃料罐	ITEM | [ITEM] [WEAPON] [BACK] Robot WarBot HT-3 Flamethrower Fuel Tank
+Reduce HT-3 Flamethrower Ammo fuel usage chance by 39%.	使 HT-3 火焰喷射器消耗燃料弹药的几率降低 39%。	说明：HT-3 Flamethrower Fuel Tank
+CI-PHX		TOWER | [TOWER] ActionFigure Army CI-PHX Base
+ME-1 Laser Eye	ME-1 激光眼	TOWER | [TOWER] ME-1 Laser Eye Base
+Deadly at close range and impossible to dodge!	近距离致命，而且无法闪避！	说明：ME-1 Laser Eye
+MN-1 Blaster	MN-1 爆能炮	TOWER | [TOWER] MN-1 Blaster Base
+Long range blaster and high damage!	远程爆能炮，伤害高！	说明：MN-1 Blaster
+AARB-42 Turret	AARB-42 炮塔	TOWER | [TOWER] AARB-42 Turret Base
+Rapid fire anti air turret!	速射防空炮塔！	说明：AARB-42 Turret
+Tamed Butterfly Cocoon	驯服蝴蝶茧	TOWER | [TOWER] [SPAWNER] Creature Tamed Butterfly Cocoon
+Spawn beautiful Butterfly.	生成美丽的蝴蝶。	说明：Tamed Butterfly Cocoon
+PSH-40 SMG	PSH-40 冲锋枪	ITEM | [ITEM] [WEAPON] [PRIMARY] BlocksMan PSH-40 SMG
+Minigun of the good Ol'd day	旧时代的转管机枪	说明：PSH-40 SMG
+M-16 Rifle	M-16 步枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan M-16 Rifle
+Army Man weapon of choice.	塑料兵的首选武器。	说明：M-16 Rifle
+M-1 Bazooka	M-1 火箭筒	ITEM | [ITEM] [WEAPON] [PRIMARY] BlocksMan M-1 Bazooka
+Booooom!!!	轰————！！！	说明：M-1 Bazooka
+Ship Hangar	舰船库	TOWER | [TOWER] [SPAWNER] ArmyMan Ship Hangar
+Spawn Army Man ships.	生成塑料兵舰船。	说明：Ship Hangar
+Ground Obstacle	地面障碍物	TOWER | [TOWER] BlocksMan Ground Obstacle
+Damaging and slow enemies overtime. Very durable but has low damage.	持续伤害并减速敌人。非常耐久，但伤害较低。	说明：Ground Obstacle
+Barbed Wire	铁丝网	TOWER | [TOWER] ArmyMan Barbed Wire
+Damaging and slow enemies overtime. Very effective against Melee enemies.	持续伤害并减速敌人。对近战敌人非常有效。	说明：Barbed Wire
+Beanie Hat	毛线帽	ITEM | [ITEM] [WEAPON] [HAT] ArmyMan Beanie Hat
+Perfect for winter season.	非常适合冬天。	说明：Beanie Hat
+C500 Cutlass Revolver	C500 弯刀左轮	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan C500 Cutlass Revolver
+High damage to infantry soldier with rapid fire.	对步兵伤害高，射速快。	说明：C500 Cutlass Revolver
+Parachute	降落伞	ITEM | [ITEM] [WEAPON] [BACK] BlocksMan Parachute
+Use Parachute on jump.	跳跃时使用降落伞。	说明：Parachute
+HT-3 Jetpack	HT-3 喷气背包	ITEM | [ITEM] [WEAPON] [BACK] Robot WarBot HT-3 Jetpack
+Use Jetpack on jump. Converted from flamethrower fuel tank as a usable jetpack!	跳跃时使用喷气背包。由火焰喷射器燃料罐改装而成的实用喷气背包！	说明：HT-3 Jetpack
+M3 Anti-Tank	M3 反坦克炮	TOWER | [TOWER] ArmyMan M3 Anti-Tank Lv.1
+Tank destroyer. Very high damage and range at Lv.3.	坦克杀手。Lv.3 时伤害和射程都极高。	说明：M3 Anti-Tank
+Plane Hangar	飞机机库	TOWER | [TOWER] ActionFigure Army Plane Hangar
+Spawn powerful Army planes fighter.	生成强大的军用战斗机。	说明：Plane Hangar
+Plastic Factory	塑料工厂	TOWER | [TOWER] BlocksMan Plastic Factory
+Spider Web	蜘蛛网	TOWER | [TOWER] [SPAWNER] Creature Spider Web
+Spawn Deadly Spider.	生成致命的蜘蛛。	说明：Spider Web
+MP-5 SMG	MP-5 冲锋枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan MP-5 Submachine Gun
+Moderately High Fire Rate. Moderately High Recoil. 	射速较高。后坐力较大。	说明：MP-5 SMG
+M14 Grenade	M14 手雷	ITEM | [ITEM] [WEAPON] [2ND] ArmyMan M14 Grenade
+HIGHLY FLAMMABLE!!! Detonate on impact.	极易燃！！！碰撞即爆。	说明：M14 Grenade
+HT Incincendiary Grenade	HT 燃烧手雷	ITEM | [ITEM] [WEAPON] [2ND] Robot Warbot HT Incincendiary Grenade
+Wall	围墙	TOWER | [TOWER] BlocksMan Wall
+Solid wall for defense!!!	坚固的防御围墙！！！	说明：Wall
+Wall Container	集装箱墙	TOWER | [TOWER] ActionFigure Army Wall Container
+Solid wall and sandbags for defense!!	坚固的墙体加沙袋，用于防守！！	说明：Wall Container
+Energy Wall Barrier	能量墙屏障	TOWER | [TOWER] Robot Energy Wall Barrier
+This wall doesn't block your troop movement at all.	这道墙完全不会阻挡你的部队移动。	说明：Energy Wall Barrier
+Static Force Fields	静态力场	TOWER | [TOWER] Robot Static Force Fields
+Protect all troop from incoming bullet and explosive!	保护所有部队免受子弹和爆炸伤害！	说明：Static Force Fields
+BR MK-II LMG	BR MK-II 轻机枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan BR MK-II LMG
+Heavy duty and high firepower 	坚固耐用，火力强大	说明：BR MK-II LMG
+Bucket O' Army Toys	军队玩具桶	TOWER | [TOWER] [SPAWNER] ArmyMan Bucket O' Army Toys
+Spawn Army Man vehicle and few soldiers.	生成塑料兵载具和少量士兵。	说明：Bucket O' Army Toys
+Sunglasses	墨镜	ITEM | [ITEM] [WEAPON] [HAT] BlocksMan Sunglasses
+Protect eyes from explosion blast!	保护眼睛免受爆炸冲击！	说明：Sunglasses
+Ammo Backpack	弹药背包	ITEM | [ITEM] [WEAPON] [BACK] ActionFigure Army Ammo Backpack
+Replenish Currently equip Primary or Dual Wield Weapon overtime.	随时间为当前装备的主武器或双持武器补充弹药。	说明：Ammo Backpack
+Vehicle Storage	载具仓库	TOWER | [TOWER] BlocksMan Army Vehicle Storage
+Spawn Army Blocks vehicles and few soldiers.	生成积木军载具和少量士兵。	说明：Vehicle Storage
+Spawn all Army Blocks soldier variety.	生成所有种类的积木军士兵。	说明：Army Tent
+Heliport	直升机场	TOWER | [TOWER] BlocksMan Heliport
+Spawn Army Blocks helicopters.	生成积木军直升机。	说明：Heliport
+Mini-UZI SMG	Mini-UZI 冲锋枪	ITEM | [ITEM] [WEAPON] [ABILITY] ArmyMan Mini-UZI Submachine Gun
+Spray & Pray. High Fire Rate & High Ammunition.	闭眼扫射，听天由命。射速高，弹药充足。	说明：Mini-UZI SMG
+Gas Mask	防毒面具	ITEM | [ITEM] [WEAPON] [HAT] ArmyMan Gas Mask Hat
+Helmet with Gas Mask.	带防毒面具的头盔。	说明：Gas Mask
+Butterfly Cocoon	蝴蝶茧	TOWER | [TOWER] [SPAWNER] Creature Butterfly Cocoon
+Bee Hive	蜂巢	TOWER | [TOWER] [SPAWNER] Creature Bee Hive
+Taste like honey & sting like a bee.	甜如蜂蜜，蜇人如蜂。	说明：Bee Hive
+Bird Pigeon Nest	鸽子窝	TOWER | [TOWER] [SPAWNER] Creature Bird Pigeon Nest
+Spawn Pigeons that will Poo Poo On You!	生成会在你头上拉便便的鸽子！	说明：Bird Pigeon Nest
+Fly Garbage Pile	苍蝇垃圾堆	TOWER | [TOWER] [SPAWNER] Creature Fly Garbage Pile
+Spawn swarm of Fly.	生成成群的苍蝇。	说明：Fly Garbage Pile
+Robot Storage	机器人仓库	TOWER | [TOWER] [SPAWNER] WarBots Robot Storage
+Spawn Robots.	生成机器人。	说明：Robot Storage
+Cockroach Nest	蟑螂窝	TOWER | [TOWER] [SPAWNER] Creature Cockroach Nest
+Old & Expired can of meat and became a Cockroach Nest.	一罐过期的陈年肉罐头，成了蟑螂窝。	说明：Cockroach Nest
+Rat Wall Hole	墙壁鼠洞	TOWER | [TOWER] [SPAWNER] Creature Rat Wall Hole
+Spawn Rat!	生成老鼠！	说明：Rat Wall Hole
+Plastic Spawner	塑料生成器	TOWER | [TOWER] [ITEM SPAWNER] ArmyMan Plastic Spawner
+Spawn chunk of plastics.	生成塑料块。	说明：Plastic Spawner
+Suction Hook Gun	吸盘钩爪枪	ITEM | [ITEM] [WEAPON] [ABILITY] BlocksMan Suction Hook Gun
+Zucc your way to unreachable places.	吸住目标，抵达原本到不了的地方。	说明：Suction Hook Gun
+Bucket O' Soldier	士兵玩具桶	TOWER | [TOWER] [SPAWNER] ArmyMan Bucket O' Soldier
+Spawn Army Man soldiers.	生成塑料兵。	说明：Bucket O' Soldier
+Radar to detect Collectible Medal.	用于探测可收集勋章的雷达。	ITEM | [ITEM] [WEAPON] [BACK] Item Radar Base
+UFO Spawner	UFO 生成器	TOWER | [TOWER] [SPAWNER] SpaceAlien UFO Spawner
+Spawn Space Alien vehicle and few soldiers.	生成太空外星人载具和少量士兵。	说明：UFO Spawner
+M-9 Pistol	M-9 手枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan M-9 Pistol
+Low damage. Unlimited ammo.	伤害低。弹药无限。	说明：M-9 Pistol
+Medal Radar	勋章雷达	ITEM | [ITEM] [WEAPON] [BACK] BlocksMan Medal Radar
+Toy Christmas Box Green	绿色圣诞玩具盒	TOWER | [TOWER] [SPAWNER] Toy Christmas Box Green
+Spawn Christmas Nutcracker toys.	生成圣诞胡桃夹子玩具。	说明：Toy Christmas Box Green
+Toy Christmas Box Red	红色圣诞玩具盒	TOWER | [TOWER] [SPAWNER] Toy Christmas Box Red
+Spawn bunch of Christmas toys.	生成一大堆圣诞玩具。	说明：Toy Christmas Box Red
+Wall Fence	围栏墙	TOWER | [TOWER] ActionFigure Army Wall Fence
+Fence with Hedgehogs for extra defense.	带有拒马的围栏，提供额外防御。	说明：Wall Fence
+Wall Logs x1	原木墙 x1	TOWER | [TOWER] ArmyMan Wall Logs x1
+Medium health. Cheap and good for defense.	生命值中等。便宜又适合防守。	说明：Wall Logs x1
+MedKit	医疗包	ITEM | [ITEM] MedKit Base
+Restore player health points.	恢复玩家的生命值。	说明：MedKit
+BRW-18 Sniper	BRW-18 狙击枪	ITEM | [ITEM] [WEAPON] [PRIMARY] BlocksMan BRW-18 Sniper
+Semi automatic with added scope and upgraded sniper bullet!	半自动，加装了瞄准镜，并升级了狙击子弹！	说明：BRW-18 Sniper
+Grenade Ammo	手雷弹药	ITEM | [ITEM] Grenade Ammo
+Replenish all grenade ammo.	补满所有手雷弹药。	说明：Grenade Ammo
+M-500 Shotgun	M-500 霰弹枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan M-500 Shotgun
+Very effective against Soldier at close range.	近距离对士兵非常有效。	说明：M-500 Shotgun
+Bonnie Hat + Sunglasses	奔尼帽 + 墨镜	ITEM | [ITEM] [WEAPON] [HAT] ActionFigure Army Bonnie Hat
+Beret Hat	贝雷帽	ITEM | [ITEM] [WEAPON] [HAT] ActionFigure Army Beret Hat
+High ranking army leader. Looking good with Grenade Launcher or AKK-37 Rifle.	高级军队指挥官。搭配榴弹发射器或 AKK-37 步枪很帅气。	说明：Beret Hat
+MK2 Grenade	MK2 手雷	ITEM | [ITEM] [WEAPON] [2ND] ArmyMan MK2 Grenade
+Army Double Pack Box	军用双人装盒	TOWER | [TOWER] [SPAWNER] ActionFigure Army Double Pack Box
+Spawn Army Figure soldiers.	生成人偶军士兵。	说明：Army Double Pack Box
+BlockZ Graves	BlockZ 墓地	TOWER | [TOWER] [SPAWNER] BlocksMan BlockZ Graves
+Spawn Blocks Man Zombies.	生成积木兵僵尸。	说明：BlockZ Graves
+Zombie Graves	僵尸墓地	TOWER | [TOWER] [SPAWNER] ArmyMan Zombie Graves
+Spawn Army Man Zombies.	生成塑料兵僵尸。	说明：Zombie Graves
+Ant Nest	蚁巢	TOWER | [TOWER] [SPAWNER] Creature Ant Nest
+Spawn Ant swarms.	生成蚁群。	说明：Ant Nest
+Worm Nest	蠕虫巢	TOWER | [TOWER] [SPAWNER] Creature Worm Nest
+Ladybug Leaf	瓢虫树叶	TOWER | [TOWER] [SPAWNER] Creature Ladybug Leaf
+Spawn Ladybug.	生成瓢虫。	说明：Ladybug Leaf
+Tamed Rat Wall Hole	驯服墙壁鼠洞	TOWER | [TOWER] [SPAWNER] Creature Tamed Rat Wall Hole
+Spawn Tamed Rat Tank!	生成驯服的老鼠坦克！	说明：Tamed Rat Wall Hole
+Ammo	弹药	ITEM | [ITEM] Primary Ammo
+Replenish currently held weapon 2x.	为当前手持的武器补充 2 倍弹药。	说明：Ammo
+Medal	勋章	ITEM | [ITEM] [COLLECTIBLE] Medal
+MP-400 SMG	MP-400 冲锋枪	ITEM | [ITEM] [WEAPON] [PRIMARY] BlocksMan MP-400 SMG
+Paratrooper weapon of choice. With quiet decent amount of damage.	伞兵的首选武器。伤害相当可观。	说明：MP-400 SMG
+MK3 Rocket	MK3 火箭筒	ITEM | [ITEM] [WEAPON] [PRIMARY] ActionFigure MK3 Rocket
+Effective against vehicles!	对载具很有效！	说明：MK3 Rocket
+RPG Rocket	RPG 火箭筒	ITEM | [ITEM] [WEAPON] [PRIMARY] ActionFigure RPG Rocket
+Deadliest rocket against vehicles!!!	对付载具最致命的火箭！！！	说明：RPG Rocket
+Firework Capture Point	烟花占领点	TOWER | [TOWER] [CAPTURE] ArmyMan Triple Firework Pod Capture Point
+Capture the flag to produce plastic. Highly explosive Triple Firework Pod!!!	夺取旗帜即可生产塑料。威力巨大的三联烟花发射器！！！	说明：Firework Capture Point
+Army Plastic Shop	军用塑料商店	TOWER | [TOWER] [SHOP] ArmyMan Army Plastic Shop
+Trader shop for the Army Man. Buy and sell item, weapon, and restock ammo.	塑料兵的交易商店。可买卖物品和武器，并补充弹药。	说明：Army Plastic Shop
+Triple Mortar	三联迫击炮	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan Triple Mortar
+Robot Hangar	机器人机库	TOWER | [TOWER] Robot Robot Hangar
+Player able to spawn Robot toys here.	玩家可以在这里生成机器人玩具。	说明：Robot Hangar
+Vehicle Hangar	载具机库	TOWER | [TOWER] Robot Vehicle Hangar
+Spawn War Bots vehicles.	生成战斗机器人载具。	说明：Vehicle Hangar
+War Bots Tent	战斗机器人帐篷	TOWER | [TOWER] Robot War Bots Tent
+Spawn all War Bots soldier variety.	生成所有种类的战斗机器人士兵。	说明：War Bots Tent
+Paratrooper Helmet	伞兵头盔	ITEM | [ITEM] [WEAPON] [HAT] ArmyMan Paratrooper Helmet
+Special Helmet for Paratrooper Army Man.	塑料兵伞兵的专用头盔。	说明：Paratrooper Helmet
+Gatling Gun	加特林机枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan Gatling Gun
+Contain incendiary ammo. Melt your enemies.	装填燃烧弹。熔化你的敌人。	说明：Gatling Gun
+Airfield	机场	TOWER | [TOWER] [SPAWNER] ActionFigure Army Airfield
+Spawn Action Figure Army plane.	生成人偶军飞机。	说明：Airfield
+D Baron Airfield	D Baron 机场	TOWER | [TOWER] [SPAWNER] ArmyMan D Baron Airfield
+Spawn D Baron Army Man plane.	生成 D Baron 塑料兵飞机。	说明：D Baron Airfield
+Spider SurpriseBox	蜘蛛惊喜盒	TOWER | [TOWER] [SPAWNER] Creature Spider SupriseBox
+Spawn Spider toy surprises.	生成蜘蛛玩具惊喜。	说明：Spider SurpriseBox
+Barracks	兵营	TOWER | [TOWER] [SPAWNER] Robot Barracks
+Spawn Robot troops.	生成机器人部队。	说明：Barracks
+Helipad	直升机坪	TOWER | [TOWER] [SPAWNER] BlocksMan Helipad
+Spawn Blocks Man Helicopter.	生成积木兵直升机。	说明：Helipad
+Firework Nuke Spawner	烟花核弹生成器	TOWER | [TOWER] [SPAWNER] ArmyMan Firework Nuke Spawner
+Arthur Helipad	Arthur 直升机坪	TOWER | [TOWER] [SPAWNER] ArmyMan Arthur Helipad
+Spawn Arthur Army Man Helicopter.	生成 Arthur 塑料兵直升机。	说明：Arthur Helipad
+Boat Dock	小艇码头	TOWER | [TOWER] ArmyMan Boat Dock
+Spawn water vehicle. Also great for defense and as an Army post.	生成水上载具。也很适合用于防守和充当军队哨所。	说明：Boat Dock
+Spread Ammo	散装弹药	ITEM | [ITEM] Primary Spread Ammo
+Replenish all weapons 1x.	为所有武器补充 1 倍弹药。	说明：Spread Ammo
+M-19 Pistol	M-19 手枪	ITEM | [ITEM] [WEAPON] [PRIMARY] BlocksMan M-19 Pistol
+Tamed Ant Nest	驯服蚁巢	TOWER | [TOWER] [SPAWNER] Creature Tamed Ant Nest
+Plastic Power Generator	塑料发电机	TOWER | [TOWER] ActionFigure Army Plastic Power Generator
+Produce chunk of plastic overtime in low quantity.	随时间少量产出塑料块。	说明：Plastic Power Generator
+Plastic Power Plant	塑料发电厂	TOWER | [TOWER] ArmyMan Plastic Power Plant
+Factory Generator	工厂发电机	TOWER | [TOWER] Robot Factory Generator
+UFO-Z-M Station	UFO-Z-M 基站	TOWER | [TOWER] [SPAWNER] SpaceAlien UFO-Z-M Station
+Spawn Space Alien soldiers.	生成太空外星人士兵。	说明：UFO-Z-M Station
+Sombrero Hat	墨西哥草帽	ITEM | [ITEM] [WEAPON] [HAT] ArmyMan Sombrero Hat
+amigos-amigos.		说明：Sombrero Hat
+Leaf Camouflage	树叶伪装	ITEM | [ITEM] [WEAPON] [BACK] ArmyMan Leaf Camouflage
+Fool enemy Player eye. Blend yourself with the nature.	骗过敌方玩家的眼睛。让自己融入大自然。	说明：Leaf Camouflage
+HM-5 SMG	HM-5 冲锋枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ActionFigure HM5 Submachine Gun
+High rate of fire and tons of ammo! But has low damage.	射速高，弹药超多！但伤害较低。	说明：HM-5 SMG
+FP-90 SMG	FP-90 冲锋枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ActionFigure FP-90 Submachine Gun
+Very High rate of fire! Moderate damage and ammo.	射速极高！伤害和弹药量中等。	说明：FP-90 SMG
+Tamed Ladybug Leaf	驯服瓢虫树叶	TOWER | [TOWER] [SPAWNER] Creature Tamed Ladybug Leaf
+Spawn Tamed Ladybug.	生成驯服的瓢虫。	说明：Tamed Ladybug Leaf
+AGS-3 Rifle	AGS-3 步枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ActionFigure AGS-3 Rifle
+High damage and accuracy. Use the rifle scope for long range attack.	伤害高，精度高。可用步枪瞄准镜进行远程攻击。	说明：AGS-3 Rifle
+AKK-37 Rifle	AKK-37 步枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ActionFigure AKK-37 Rifle
+Most powerful rifle against Toy Soldier. But has high recoil and low ammo.	对付玩具兵最强的步枪。但后坐力大，弹药少。	说明：AKK-37 Rifle
+M4AC Rifle	M4AC 步枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ActionFigure M4AC Rifle
+Army standard assault rifle.	军队制式突击步枪。	说明：M4AC Rifle
+M-37 Double Shotgun	M-37 双管霰弹枪	ITEM | [ITEM] [WEAPON] [PRIMARY] BlocksMan M-37 Double Shotgun
+Lethal at close range!	近距离致命！	说明：M-37 Double Shotgun
+Blocks Man Storage 1x1	积木兵仓库 1x1	TOWER | [TOWER] [SPAWNER] BlocksMan Storage 1x1 - Army Soldier Pack
+Spawn Blocks Man soldiers.	生成积木兵。	说明：Blocks Man Storage 1x1
+Power Radio	能源电台	TOWER | [TOWER] ActionFigure Army Power Radio
+Produce chunk of plastic overtime in high quantity. Player able to spawn 2 more power to increase production.	随时间大量产出塑料块。玩家可额外生成 2 个能源以提高产量。	说明：Power Radio
+M-3 SMG	M-3 冲锋枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ArmyMan M-3 Submachine Gun
+Compact & Portable weapon. Paratrooper weapon of choice.	小巧便携的武器。伞兵的首选武器。	说明：M-3 SMG
+Ladybug Leaf Tent	瓢虫树叶帐篷	TOWER | [TOWER] Creature Ladybug Leaf Tent
+Heal surrounding friendly toy. Ability to spawn Tamed Ladybug.	治疗周围的友军玩具。可生成驯服的瓢虫。	说明：Ladybug Leaf Tent
+Army Blocks Man Builder	积木兵建造包	ITEM | [ITEM] [WEAPON] [ABILITY] BlocksMan Builder
+Build Army Blocks Man infantry.	建造积木兵的步兵单位。	说明：Army Blocks Man Builder
+War Bot Builder	战斗机器人建造包	ITEM | [ITEM] [WEAPON] [ABILITY] Robot WarBot Builder
+Build War Bot infantry.	建造战斗机器人的步兵单位。	说明：War Bot Builder
+Gunner Helmet	枪手头盔	ITEM | [ITEM] [WEAPON] [HAT] BlocksMan Gunner Helmet
+Blocks Man Gunner Helmet.	积木兵枪手头盔。	说明：Gunner Helmet
+Tamed Cockroach Nest	驯服蟑螂窝	TOWER | [TOWER] [SPAWNER] Creature Tamed Cockroach Nest
+M24 Machine Gun	M24 机枪	ITEM | [ITEM] [WEAPON] [PRIMARY] ActionFigure M24 Machine Gun
+Bring the pain!	让敌人尝尝苦头！	说明：M24 Machine Gun

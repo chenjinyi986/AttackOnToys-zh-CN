@@ -1,0 +1,288 @@
+src	zh	note
+Firecracker	鞭炮	BULLET | [BULLET] M-80 FireCracker
+DANGER EXPLOSIVE!!!	危险爆炸物！！！	说明：Firecracker
+Robot Spawn Point	机器人生成点	SPAWN POINT | [SPAWN POINT] RobotSpawnPoint
+Player able to spawn Robot toys here. Not Damageable.	玩家可以在此生成机器人玩具。不可被破坏。	说明：Robot Spawn Point
+CBR-1 Helicopter	CBR-1 直升机	TROOP | [TROOP] ActionFigure Army CBR-1 Helicopter
+Incendiary, Chain Gun, and Minigun all at once!!!	燃烧弹、链式机炮和转管机枪，一次全都有！！！	说明：CBR-1 Helicopter
+HWK-70 Helicopter	HWK-70 直升机	TROOP | [TROOP] ActionFigure Army HWK-70 Helicopter
+Most powerful Army Action Figure helicopter! Dual Quad Rocket, Machine Gunner & Shotgun Squad, and a Minigun!!!	最强的人偶军直升机！双四联火箭、机枪兵与霰弹枪兵小队，外加一挺转管机枪！！！	说明：HWK-70 Helicopter
+ECT-23 Attack Copter	ECT-23 攻击直升机	TROOP | [TROOP] BlocksMan ECT-23 Attack Copter
+High mobility and high damage mini gatling blast! Perfect for combat helicopter.	高机动性，迷你加特林火力凶猛！完美的战斗直升机。	说明：ECT-23 Attack Copter
+CB-70 Assault Boat	CB-70 突击艇	TROOP | [TROOP] BlocksMan CB-70 Assault Boat
+Assault Boat has balance protection from sky & ground attack. Also great for offense!	突击艇对空中和地面攻击都有均衡的防护。进攻也很出色！	说明：CB-70 Assault Boat
+JU-20 Jet Ski	JU-20 摩托艇	TROOP | [TROOP] ActionFigure JU-20 Jet Ski
+Fastest water vehicle transportation with the boys!	载着弟兄们飞驰的最快水上载具！	说明：JU-20 Jet Ski
+MB-12 Military Boat	MB-12 军用运输艇	TROOP | [TROOP] ActionFigure Army MB-12 Military Boat
+Military Transport Boat up to 4 Seats. Has Assault Squad member.	军用运输艇，最多 4 个座位。配有突击兵小队成员。	说明：MB-12 Military Boat
+KV1-Tank	KV1 坦克	TROOP | [TROOP] ArmyMan KV1-Tank
+Heavy tank. Heavy damage.	重型坦克。重火力。	说明：KV1-Tank
+Shopkeeper	店主	DIALOG | [DIALOG] ArmyMan El Manuel
+Igloo Tank	冰屋坦克	TROOP | [TROOP] Toy Igloo Tank
+Spawn armies of Penguin!!!	生成企鹅大军！！！	说明：Igloo Tank
+Flamethrower Snowman	喷火雪人	TROOP | [TROOP] Toy Flamethrower Snowman
+Super fast snowman flamethrower with sled roller!	坐着雪橇滚轮、速度超快的喷火雪人！	说明：Flamethrower Snowman
+Officer	长官	DIALOG | [DIALOG] ArmyMan Officer John
+Bomber Plane	轰炸机	TROOP | [TROOP] ArmyMan Bomber Plane
+Very high health and damage. Ability to spawn paratrooper and bomb drop. The best air support an army can get. 	生命值和伤害极高。可以生成伞兵并投掷炸弹。一支军队所能得到的最佳空中支援。	说明：Bomber Plane
+Plastic-Truck	塑料卡车	TROOP | [TROOP] ArmyMan Plastic-Truck
+Harvest plastic from enemies. Low damage. Accompanied by one Army Man Medic.	从敌人身上收集塑料。伤害较低。有一名塑料兵医疗兵随行。	说明：Plastic-Truck
+Cockroach	蟑螂	TROOP | [TROOP] Insect Cockroach
+High health and damage. Human and toy hate em.	生命值和伤害都很高。人类和玩具都讨厌它们。	说明：Cockroach
+Army Commando	人偶突击队员	PLAYER | [PLAYER] ActionFigure Army Commando
+Army Figure Commando & Builder.	人偶军突击队员兼建造兵。	说明：Army Commando
+Flame Ant	喷火蚁	TROOP | [TROOP] Insect Flame Ant
+Flame breathing ants!?#%	会喷火的蚂蚁！？#%	说明：Flame Ant
+Worker Ant	工蚁	TROOP | [TROOP] Insect Worker Ant
+Fast and reliable ant worker. Very dangerous in a swarm.	迅速可靠的工蚁。成群出现时非常危险。	说明：Worker Ant
+Battle Bots	战斗机器人	PLAYER | [PLAYER] WarBots Base
+Spider	蜘蛛	TROOP | [TROOP] Insect Spider Lv.2
+Spit poison from long distance and has high damage.	远距离喷吐毒液，伤害很高。	说明：Spider
+SCM-17 Biplane	SCM-17 双翼机	TROOP | [TROOP] BlocksMan SCM-17 Biplane
+High accurate damages and very effective against enemies bomber type plane fighter.	攻击精准，对敌方轰炸机类战机非常有效。	说明：SCM-17 Biplane
+Tamed Worker Ant	驯服工蚁	TROOP | [TROOP] Insect Tamed Worker Ant
+Tamed by Army Man and has increase health boost! Fast and reliable ant worker. Very dangerous in a swarm.	被塑料兵驯服，生命值获得提升！迅速可靠的工蚁。成群出现时非常危险。	说明：Tamed Worker Ant
+HS-07 Aircraft Carrier	HS-07 航空母舰	TROOP | [TROOP] BlocksMan HS-07 Aircraft Carrier
+The ultimate Army Blocks Man ship. Spawn plane fighters, Sniper, and has multiple Spawn Points Defense!!!	积木军的终极战舰。可生成战斗机和狙击兵，并拥有多个防御生成点！！！	说明：HS-07 Aircraft Carrier
+M163-AA H-Rockets	M163-AA 追踪火箭	TROOP | [TROOP] ArmyMan M163-AA H-Rockets
+Super effective against Air Vehicle especially Planes with super long range Homing Rockets!!!! Incendiary mortar and Sniper to help sweep ground enemies.	凭借超远程追踪火箭，对空中载具（尤其是飞机）极其有效！！！！燃烧迫击炮和狙击兵协助清扫地面敌人。	说明：M163-AA H-Rockets
+M163-AA		TROOP | [TROOP] ArmyMan M163-AA
+AA gun that very effective against Air enemies. Incendiary mortar to help sweep ground enemies.	对空中敌人非常有效的防空炮。燃烧迫击炮协助清扫地面敌人。	说明：M163-AA
+Sniper	狙击兵	TROOP | [TROOP] ActionFigure Army Sniper
+Using semi automatic sniper rifle and will hunt enemies down one by one!	使用半自动狙击步枪，会把敌人一个接一个猎杀！	说明：Sniper
+Tamed Scorpion	驯服蝎子	TROOP | [TROOP] Insect Tamed Scorpion
+Spit explosive poison from very long distance!! Has moderate movement speed. Tamed & accompanied by Army Man Sniper and Medic.	从超远距离喷吐爆炸毒液！！移动速度中等。已被驯服，并有塑料兵狙击兵和医疗兵随行。	说明：Tamed Scorpion
+Machine Gunner	机枪兵	TROOP | [TROOP] ArmyMan Machine Gunner
+High health. Good range and high damage with LMG.	生命值高。手持轻机枪，射程不错，伤害很高。	说明：Machine Gunner
+Dummy Soldier	假人士兵	TROOP | [TROOP] ArmyMan Dummy Soldier
+A Dummy Training.	训练用的假人。	说明：Dummy Soldier
+Major	少校	TROOP | [TROOP] ActionFigure Army Major Shephard
+Has Medic and Sniper Squad Members. Healing to support Shephard from close distance and Sniper giving cover fire from long distance.	小队成员有医疗兵和狙击兵。医疗兵在近处为谢泼德治疗支援，狙击兵在远处提供火力掩护。	说明：Major
+Fat Worm	肥蠕虫	TROOP | [TROOP] Insect Fat Worm
+Explode and spawn worms!!!	爆炸并生成蠕虫！！！	说明：Fat Worm
+Small Worm	小蠕虫	TROOP | [TROOP] Insect Small Worm
+KILL IT WITH FIRE!	快用火烧死它！	说明：Small Worm
+Idle Grasshopper	发呆蚱蜢	TROOP | [TROOP] Insect Idle Grasshopper
+Chirping grasshopper that does absolutely nothing.	只会唧唧叫、什么都不干的蚱蜢。	说明：Idle Grasshopper
+RTT-Rat Tank	RTT 老鼠坦克	TROOP | [TROOP] Creature RTT-Rat Tank
+Incredibly high health and speed!! Perfect for tank role!	生命值和速度高得惊人！！最适合当坦克！	说明：RTT-Rat Tank
+Spawn Point Wall	城墙生成点	SPAWN POINT | [SPAWN POINT] BlocksMan Wall Logs
+Build wall defenses.	建造防御城墙。	说明：Spawn Point Wall
+SCBR-107 Helicopter	SCBR-107 直升机	TROOP | [TROOP] ArmyMan Arthur SCBR-107 Helicopter
+High mobility helicopter and exclusive only for Arthur Cutlass. Has minigun rockets, incendiary, and laser! Spawn Army Man Popper when in combat!!	高机动性直升机，亚瑟·卡特拉斯专属。配备转管火箭、燃烧弹和激光！战斗中会生成塑料兵拉炮手！！	说明：SCBR-107 Helicopter
+Apache	阿帕奇	TROOP | [TROOP] ArmyMan Apache
+High mobility and high damage. Perfect for combat helicopter.	高机动性，高伤害。完美的战斗直升机。	说明：Apache
+Bee	蜜蜂	TROOP | [TROOP] Insect Bee
+This bee able to shoot sting projectile at you from long distance. Avoid it at all cost.	这只蜜蜂能从远处向你射出毒刺。不惜一切代价躲开它。	说明：Bee
+Incendiary Fly	燃烧苍蝇	TROOP | [TROOP] Insect Plane Incendiary Fly
+Experimental Fly that escaped from Army Laboratory! Explosive incendiary and acid!! Fast flying insect! Might distract your ear & focus in battle!@~#*(^	从军方实验室逃出来的实验苍蝇！会爆炸的燃烧弹和酸液！！飞得很快的昆虫！可能会在战斗中扰乱你的听觉和注意力！@~#*(^	说明：Incendiary Fly
+Tamed AA Fly	驯服防空苍蝇	TROOP | [TROOP] Insect Plane Tamed AA Fly
+Tamed Fly straped with AA Incendiary Turrets!! Fast flying insect! Might distract your ear & focus in battle!@~#*(^	绑上了防空燃烧炮塔的驯服苍蝇！！飞得很快的昆虫！可能会在战斗中扰乱你的听觉和注意力！@~#*(^	说明：Tamed AA Fly
+Builder	建造兵	TROOP | [TROOP] ArmyMan Builder
+Helping player to build Army Man infantry. Focus on calling Air Support in Stay command mode.	帮助玩家建造塑料兵步兵。在“驻守”指令模式下专注于呼叫空中支援。	说明：Builder
+Spawn Point Tower	塔楼生成点	SPAWN POINT | [SPAWN POINT] Robot Tower
+Spawn Robot tower defense point.	生成机器人塔楼防御点。	说明：Spawn Point Tower
+Zombie	僵尸	TROOP | [TROOP] ArmyMan Zombie Lv.3
+UuugGggghhHhh...	呃呃呃啊啊啊……	说明：Zombie
+The tank killer!	坦克杀手！	说明：Bazooka Man
+Blocks Man	积木兵	PLAYER | [PLAYER] BlocksMan Base
+Submarine TX-9	TX-9 潜艇	TROOP | [TROOP] ArmyMan Submarine TX-9
+Submerge into the water. Has Quad Mortar and AA Turret!	可潜入水下。配备四联迫击炮和防空炮塔！	说明：Submarine TX-9
+RB-LE Robot	RB-LE 机器人	TROOP | [TROOP] BaseVehicleRobot Base RB-LE Robot
+Deadly beam laser eyes at close range!	近距离发射致命的激光眼光束！	说明：RB-LE Robot
+MLF-33 Mecha Gunner	MLF-33 机甲枪手	TROOP | [TROOP] BaseVehicleRobot Base MLF-33 Mecha Gunner
+A literal death machine at close range! Army Man and Robot player soldier could enter this madness!	近距离下名副其实的死亡机器！塑料兵和机器人阵营的玩家士兵都能进入这台疯狂机器！	说明：MLF-33 Mecha Gunner
+TRTL-11 Mecha Walker	TRTL-11 机甲步行者	TROOP | [TROOP] BaseVehicleRobot Base TRTL-11 Mecha Walker
+Super mecha walker fortress!!! Has long range rockets and War Bots squad.	超级机甲步行要塞！！！配备远程火箭和战斗机器人小队。	说明：TRTL-11 Mecha Walker
+SGK1-Tank	SGK1 坦克	TROOP | [TROOP] ArmyMan SGK1-Tank
+Long range Tank and Highly explosive damage.	远程坦克，爆炸伤害极高。	说明：SGK1-Tank
+Queen Worker Ant	工蚁蚁后	TROOP | [TROOP] Insect Queen Worker Ant
+Spawn horde of Ants! Very dangerous in a swarm.	生成大群蚂蚁！成群出现时非常危险。	说明：Queen Worker Ant
+Alien Ray	射线外星人	TROOP | [TROOP] SpaceAlien Alien Ray
+Martian from outer space! Long range and high damage.	来自外太空的火星人！射程远，伤害高。	说明：Alien Ray
+M70-Motorcycles	M70 摩托车	TROOP | [TROOP] ArmyMan M70-Motorcycle
+Fastest land vehicle to ambush enemy quickly.	最快的陆地载具，可迅速伏击敌人。	说明：M70-Motorcycles
+Paratrooper	伞兵	TROOP | [TROOP] ArmyMan Paratrooper
+Ready to serve at any given position with Radio Air Supports.	随时可在任何指定位置投入战斗，并能用无线电呼叫空中支援。	说明：Paratrooper
+UFO-ZI-M		TROOP | [TROOP] SpaceAlien UFO-ZI-M
+Heavy UFO fighter with giant laser and high damage output!	重型 UFO 战机，配备巨型激光，伤害输出极高！	说明：UFO-ZI-M
+Mini UFO	迷你 UFO	TROOP | [TROOP] SpaceAlien Mini UFO
+Super fast flying UFO with high precision laser!	飞行速度超快的 UFO，配备高精度激光！	说明：Mini UFO
+Supreme Baron	至尊男爵	TROOP | [TROOP] ArmyMan D Supreme Baron
+Shoot long range Grenade Launcher on quick succession!!! Ability to respawn exclusive RD-B 3 Triplane for D Supreme Baron only.	用榴弹发射器快速连射远程榴弹！！！能够重生 D 至尊男爵专属的 RD-B 3 三翼机。	说明：Supreme Baron
+Cutlass	卡特拉斯	TROOP | [TROOP] ArmyMan Arthur Cutlass
+Deadliest Western outlaw with rapid revolver that will kill soldier on the spot!!!!!! Ability to respawn exclusive SCBR-107 Helicopter for Arthur Cutlass only.	最致命的西部亡命徒，速射左轮能当场击毙士兵！！！！！！能够重生亚瑟·卡特拉斯专属的 SCBR-107 直升机。	说明：Cutlass
+Mega Mech	巨型机甲	TROOP | [TROOP] WarBots Mega Mech
+Double minigun. Double launcher. Double the fun. Ability to use jetpack when Player entering the mech.	双转管机枪。双发射器。双倍乐趣。玩家进入机甲后可以使用喷气背包。	说明：Mega Mech
+Mine	地雷	BULLET | [BULLET] [DEFENSE] Army Mine
+Explodes when a toy step on it.	玩具踩上去就会爆炸。	说明：Mine
+Incendiary Mine	燃烧地雷	BULLET | [BULLET] [DEFENSE] Army Blocks Incendiary Mine
+Explodes to an open flames when a toy step on it!!!	玩具踩上去就会爆出熊熊烈火！！！	说明：Incendiary Mine
+Naval Mine	水雷	BULLET | [BULLET] [DEFENSE] Naval Mine
+Explodes when a toy swim into it.	玩具游泳碰到就会爆炸。	说明：Naval Mine
+War Robot Assault	战斗机器人突击兵	TROOP | [TROOP] WarBots War Robot
+High health. Machine gun rifle with high rate of fire and damage.	生命值高。配备射速快、伤害高的机枪步枪。	说明：War Robot Assault
+M4-Tank	M4 坦克	TROOP | [TROOP] ArmyMan M4-Tank
+Fast and lightweight tank.	快速的轻型坦克。	说明：M4-Tank
+Landing Craft M-3	M-3 登陆艇	TROOP | [TROOP] ArmyMan Landing Craft M-3
+Transport huge amount of troops from water to land. Has ability to protect your troops.	将大量部队从水上运送到陆地。能够保护你的部队。	说明：Landing Craft M-3
+SH-2 Spider Bot Harvester	SH-2 蜘蛛采集机器人	TROOP | [TROOP] Robot SH-2 Spider Bot Harvester
+Spider bot with ability to harvest plastic. Has submachine gunner squad for extra protection!	能够采集塑料的蜘蛛机器人。配有冲锋枪兵小队提供额外保护！	说明：SH-2 Spider Bot Harvester
+Tamed Ladybug	驯服瓢虫	TROOP | [TROOP] Insect Tamed Ladybug
+Tamed and healing boost! Friendly little bug with high healing capability and huge health! This little bug could change tides of war!?	已驯服，治疗效果提升！友善的小虫子，治疗能力强，生命值超高！这只小虫子能扭转战局！？	说明：Tamed Ladybug
+Viking	维京战士	TROOP | [TROOP] Toy Penguin Viking Candy Cane
+Small and agile melee toys! High health penguin with viking helmet!	小巧敏捷的近战玩具！戴着维京头盔、生命值很高的企鹅！	说明：Viking
+Gunslinger	快枪手	TROOP | [TROOP] Toy Penguin Gunslinger
+Rapid fire 6 shot revolver!!! Super deadly at close range!!!	速射 6 发左轮手枪！！！近距离超级致命！！！	说明：Gunslinger
+Popper	拉炮手	TROOP | [TROOP] Toy Penguin Popper
+~!!@# EXPLOSION	~!!@# 大爆炸	说明：Popper
+CXG-5 Transport Gunner	CXG-5 武装运输车	TROOP | [TROOP] Robot CXG-5 Transport Gunner
+Long range transport gunner with few extra sniper robot squad!!	远程武装运输车，额外搭载几名狙击机器人小队成员！！	说明：CXG-5 Transport Gunner
+Chinook	支奴干	TROOP | [TROOP] ArmyMan Chinook
+Best helicopter to form huge army squad and protect them while in transport. Has ability to call paratrooper.	组建大规模小队的最佳直升机，能在运输途中保护他们。可以呼叫伞兵。	说明：Chinook
+Submachine Gunner	冲锋枪兵	TROOP | [TROOP] ArmyBlocks Submachine Gunner
+Great for Offense with balanced Rate of fire and Damage.	射速与伤害均衡，非常适合进攻。	说明：Submachine Gunner
+Jeep	吉普车	TROOP | [TROOP] ArmyMan Jeep
+Fast, efficient, and compact to destination. Standard Army Man vehicle.	快速、高效、小巧，直达目的地。塑料兵的标准载具。	说明：Jeep
+CH-2S Tank	CH-2S 坦克	TROOP | [TROOP] ActionFigure Army CH-2S Tank
+Super Long range Tank with tons of damage!!!	超远程坦克，伤害爆表！！！	说明：CH-2S Tank
+M1A-Tank	M1A 坦克	TROOP | [TROOP] ActionFigure Army M1A-Tank
+Heavy tank. Heavy damage. Heavy armor!	重型坦克。重火力。重装甲！	说明：M1A-Tank
+T-9K2 Tank	T-9K2 坦克	TROOP | [TROOP] ActionFigure Army T-9K2 Tank
+Indestructible double barreled tank with missile pod!! Has an extra Spawn Point.	坚不可摧的双管坦克，配备导弹巢！！附带一个额外生成点。	说明：T-9K2 Tank
+Ladybug	瓢虫	TROOP | [TROOP] Insect Ladybug
+Friendly little bug with high healing capability and huge health! This little bug could change tides of war!?	友善的小虫子，治疗能力强，生命值超高！这只小虫子能扭转战局！？	说明：Ladybug
+Magnifying Glass	放大镜	RAY | [RAY] ArmyMan Magnifying Glass
+Melt plastic. Very effective against building.	熔化塑料。对建筑非常有效。	说明：Magnifying Glass
+Mortar Man	迫击炮兵	TROOP | [TROOP] ArmyBlocks Mortar Man
+Effective against group of enemies and building. Very long range.	对成群的敌人和建筑很有效。射程非常远。	说明：Mortar Man
+Spawn toys overtime until it ran out at any given position.	在任意指定位置持续生成玩具，直到耗尽为止。	BUCKET | [BUCKET] Base Unit Troop Spawner
+Medic	医疗兵	TROOP | [TROOP] Robot WarBot Medic
+Heal wounded friendly toys. Double rate of fire!!	治疗受伤的友方玩具。双倍射速！！	说明：Medic
+Flamer	喷火兵	TROOP | [TROOP] Robot WarBot Flamer
+Super high damage at close range!!!	近距离超高伤害！！！	说明：Flamer
+Beam Bot	光束机器人	TROOP | [TROOP] Robot WarBot Beam Bot
+High accuracy and high damage laser projectile!	高精度、高伤害的激光弹！	说明：Beam Bot
+Rocket Bot	火箭机器人	TROOP | [TROOP] Robot WarBot Rocket Bot
+Effective against tank and have super long range rocket launcher.	对坦克很有效，配备超远程火箭发射器。	说明：Rocket Bot
+VO-20 Twin Copter	VO-20 双旋翼直升机	TROOP | [TROOP] BlocksMan VO-20 Twin Copter
+HAPC-38 Carrier	HAPC-38 运兵车	TROOP | [TROOP] BlocksMan HAPC-38 Carrier
+Best ground vehicle to form huge Army Blocks squad to battle. Has ability to respawn squad members.	组建大规模积木军小队参战的最佳地面载具。能够重生小队成员。	说明：HAPC-38 Carrier
+Tamed Queen Worker Ant	驯服工蚁蚁后	TROOP | [TROOP] Insect Tamed Queen Worker Ant
+Tamed by Army Man and has increase health boost! Spawn horde of Ants! Very dangerous in a swarm.	被塑料兵驯服，生命值获得提升！生成大群蚂蚁！成群出现时非常危险。	说明：Tamed Queen Worker Ant
+Alien	外星人	PLAYER | [PLAYER] SpaceAlien Alien
+Army Man Commando & Builder.	塑料兵突击队员兼建造兵。	说明：Alien
+Santa Sleigh	圣诞老人雪橇	TROOP | [TROOP] Toy Santa Sleigh
+Santa on sleigh dropping explosive Christmas box?#!@	坐着雪橇的圣诞老人投下会爆炸的圣诞礼盒？#!@	说明：Santa Sleigh
+Tamed Bomber Pigeon	驯服轰炸鸽	TROOP | [TROOP] Creature Plane Tamed Army Bomber Pigeon
+Fast flying bird with 10 Pounds of Crap From Above!!! Tamed and armed with extra Seats & Bombs!!!!	飞得很快的鸟，带着从天而降的 10 磅便便！！！已驯服，并加装了额外座位和炸弹！！！！	说明：Tamed Bomber Pigeon
+Dummy Half-Track	半履带靶车	TROOP | [TROOP] ArmyMan Dummy Half-Track
+Assault	突击兵	TROOP | [TROOP] ActionFigure Army Assault
+Highly accurate and trained army. Great for both frontline or defense.	枪法精准、训练有素的部队。无论前线进攻还是防守都很出色。	说明：Assault
+Paratrooper Shotgun	霰弹枪伞兵	TROOP | [TROOP] ActionFigure Army Paratrooper Shotgun
+Super deadly against another Soldier in close range.	近距离对付其他士兵极其致命。	说明：Paratrooper Shotgun
+Plastic Sweeper	塑料清扫兵	TROOP | [TROOP] ActionFigure Army Plastic Sweeper
+Help player to collect chunk of plastic. Fast movement speed & big coin search radius.	帮助玩家收集塑料碎块。移动速度快，塑料币搜索范围大。	说明：Plastic Sweeper
+Patrol Boat-PBR30	PBR30 巡逻艇	TROOP | [TROOP] ArmyMan Patrol Boat-PBR30
+Fastest boat with twin gun and mortar!	速度最快的艇，配有双联机枪和迫击炮！	说明：Patrol Boat-PBR30
+Zombie Popper	僵尸拉炮手	TROOP | [TROOP] ArmyMan Zombie Popper
+UuugGggghhHhh... BOOOM!!!	呃呃呃啊啊啊……轰隆隆！！！	说明：Zombie Popper
+Flamethrower	火焰喷射兵	TROOP | [TROOP] ArmyMan Flamethrower
+Super high damage at close range. Slow movement.	近距离超高伤害。移动缓慢。	说明：Flamethrower
+Parachute Popper	伞降拉炮手	TROOP | [TROOP] ArmyMan Parachute Popper
+BOOOOM!*&# Firecracker with party popper confetti inside!	轰隆隆！*&# 里面塞满派对拉炮彩纸的鞭炮！	说明：Parachute Popper
+Tamed Flame Ant	驯服喷火蚁	TROOP | [TROOP] Insect Tamed Flame Ant
+Tamed by Army Man and has increase health boost! Flame breathing ants!?#%	被塑料兵驯服，生命值获得提升！会喷火的蚂蚁！？#%	说明：Tamed Flame Ant
+Fly	苍蝇	TROOP | [TROOP] Insect Plane Fly
+Fast flying insect! Might distract your ear & focus in battle!@~#*(^	飞得很快的昆虫！可能会在战斗中扰乱你的听觉和注意力！@~#*(^	说明：Fly
+Butterfly	蝴蝶	TROOP | [TROOP] Insect Plane Butterfly
+Beautiful fast flying insect! Has explosive healing radius?!	美丽又飞得很快的昆虫！拥有爆发式范围治疗？！	说明：Butterfly
+Dummy Tank	坦克靶车	TROOP | [TROOP] ArmyMan Dummy Tank
+Train	火车	TROOP | [TROOP] [WAYPOINT] ArmyMan Train
+Form Army Man, Blocks Man, and Action Soldier Man squad into this epic train! Has tank turret, Anti-Air, and few extra spawn points for extra power!!	把塑料兵、积木兵和人偶兵小队编入这列史诗级火车！配有坦克炮塔、防空火力和几个额外生成点，战力更强！！	说明：Train
+Good range with high damage. Very slow rate of fire.	射程不错，伤害高。射速非常慢。	说明：Rifle Man
+Penguin	企鹅	TROOP | [TROOP] Toy Penguin Base
+Small and agile toys!	小巧敏捷的玩具！	说明：Penguin
+Half-Track	半履带车	TROOP | [TROOP] ArmyMan Half-Track
+Best ground vehicle to form huge Army squad to battle. Has ability to respawn squad members.	组建大规模小队参战的最佳地面载具。能够重生小队成员。	说明：Half-Track
+Tamed Fly	驯服苍蝇	TROOP | [TROOP] Insect Plane Tamed Fly
+Highly trained precision Fly Bomber! Fast flying insect! Might distract your ear & focus in battle!@~#*(^	训练有素的精确苍蝇轰炸机！飞得很快的昆虫！可能会在战斗中扰乱你的听觉和注意力！@~#*(^	说明：Tamed Fly
+Tamed Cockroach	驯服蟑螂	TROOP | [TROOP] Creature Tamed Cockroach
+Tamed and strapped with highly explosive lighter flame!!! High health and damage. Human and toy hate em.	已驯服，还绑上了高爆打火机火焰！！！生命值和伤害都很高。人类和玩具都讨厌它们。	说明：Tamed Cockroach
+Rat	老鼠	TROOP | [TROOP] Creature Rat
+Tamed Butterfly	驯服蝴蝶	TROOP | [TROOP] Insect Plane Tamed Butterfly
+Beautiful fast flying insect! Has explosive healing radius?! Accompanied by Army Man Medic.	美丽又飞得很快的昆虫！拥有爆发式范围治疗？！有塑料兵医疗兵随行。	说明：Tamed Butterfly
+Tamed Fire Ant	驯服火蚁	TROOP | [TROOP] Insect Tamed Fire Ant
+Tamed by Army Man and has increase health boost! Fire Ant bite has high Damage and it will leave a bite mark for sure.	被塑料兵驯服，生命值获得提升！火蚁的叮咬伤害很高，保证会留下咬痕。	说明：Tamed Fire Ant
+Battleship BB-70	BB-70 战列舰	TROOP | [TROOP] ArmyMan Battleship BB-70
+The ultimate Army Man ship.	塑料兵的终极战舰。	说明：Battleship BB-70
+HMB-10 Ship	HMB-10 战舰	TROOP | [TROOP] ActionFigure Army HMB-10 Ship
+The ultimate Army ship! Long range and high damage triple rocket shoots!!! Spawn Helicopter, Sniper, and has multiple Spawn Points Defense!!	终极军舰！远程、高伤害的三联火箭齐射！！！可生成直升机和狙击兵，并拥有多个防御生成点！！	说明：HMB-10 Ship
+Nutcracker	胡桃夹子	TROOP | [TROOP] Toy Nutcracker
+Toy made from strong wood and plastic! Also look very menacingly tanky.	由坚固的木头和塑料制成的玩具！看起来也非常抗揍，气势逼人。	说明：Nutcracker
+Huey	休伊	TROOP | [TROOP] ArmyMan Huey
+Fast and reliable. Standard Army Man helicopter.	快速可靠。塑料兵的标准直升机。	说明：Huey
+RD-B 3 Triplane	RD-B 3 三翼机	TROOP | [TROOP] ArmyMan Baron RD-B 3 Triplane
+Super duper deadly bomber plane exclusive only for D Supreme Baron. Easily destroy land troops with multiple bombs and incendiary.	D 至尊男爵专属的超级无敌致命轰炸机。用大量炸弹和燃烧弹轻松摧毁地面部队。	说明：RD-B 3 Triplane
+Heavy Gunner	重火力兵	TROOP | [TROOP] ArmyBlocks Heavy Gunner
+Carrying heavy rifle with solid damages!	手持重型步枪，伤害扎实！	说明：Heavy Gunner
+Pigeon	鸽子	TROOP | [TROOP] Creature Plane Pigeon
+Fast flying bird with 10 Pounds of Crap From Above!!!	飞得很快的鸟，带着从天而降的 10 磅便便！！！	说明：Pigeon
+Assault Man	突击兵	TROOP | [TROOP] ArmyBlocks Assault
+Has long range Assault Rifle. Effective both defense and offense!	持有远程突击步枪。攻守皆宜！	说明：Assault Man
+Walker UFO-ZII-M	UFO-ZII-M 步行机	TROOP | [TROOP] SpaceAlien Alien Mech Walker UFO-ZII-M
+UFO-ZI-M with Perfect II pair of legs!! Upgraded health and mortar lasers!!!!	装上了完美 II 条腿的 UFO-ZI-M！！生命值升级，还有迫击激光炮！！！！	说明：Walker UFO-ZII-M
+Spawn Point Utility	设施生成点	SPAWN POINT | [SPAWN POINT] Robot Plastic PowerPlant
+Spawn Army Robot Utility.	生成机器人军设施。	说明：Spawn Point Utility
+Fire Ant	火蚁	TROOP | [TROOP] Insect Fire Ant
+Fire Ant bite has high Damage and it will leave a bite mark for sure.	火蚁的叮咬伤害很高，保证会留下咬痕。	说明：Fire Ant
+Mother Spider	母蜘蛛	TROOP | [TROOP] Insect Mother Spider
+Spit poison from very long distance and do triple damage!!! Guarded by two small spiders.	从超远距离喷吐毒液，造成三倍伤害！！！由两只小蜘蛛护卫。	说明：Mother Spider
+Scorpion	蝎子	TROOP | [TROOP] Insect Scorpion
+Spit explosive poison from very long distance!! Has moderate movement speed.	从超远距离喷吐爆炸毒液！！移动速度中等。	说明：Scorpion
+LST12-Tank	LST12 坦克	TROOP | [TROOP] BlocksMan LST12-Tank
+Faster rate of fire and paired with Bazooka Man as a Squad.	射速更快，并与火箭筒兵搭档组成小队。	说明：LST12-Tank
+MS7-Tank	MS7 坦克	TROOP | [TROOP] BlocksMan MS7-Tank
+Long range Tank and Highly explosive damage. Paired with Sniper as a Squad.	远程坦克，爆炸伤害极高。与狙击兵搭档组成小队。	说明：MS7-Tank
+APF-2 Fighter Plane	APF-2 战斗机	TROOP | [TROOP] Robot APF-2 Fighter Plane
+Very fast fighter plane with dual incendiary turret.	速度极快的战斗机，配备双联燃烧炮塔。	说明：APF-2 Fighter Plane
+Firework Rocket Nuke	烟花火箭核弹	TROOP | [TROOP] ArmyMan Firework Rocket Nuke
+Explode atomic firework nuke on collision! Focus targeting HQ at start.	撞击时引爆原子烟花核弹！开局优先瞄准总部。	说明：Firework Rocket Nuke
+GH-1 Plane Bomber	GH-1 轰炸机	TROOP | [TROOP] Robot GH-1 Plane Bomber
+Super fast lightweight bomber plane!!!	超高速轻型轰炸机！！！	说明：GH-1 Plane Bomber
+TC-147 Jet Fighter	TC-147 喷气战斗机	TROOP | [TROOP] ActionFigure Army TC-147 Jet Fighter
+Untouchable! Super High Speed jet engine! Almost impossible to hit with rocket! Huge advantages in open area.	摸都摸不着！超高速喷气引擎！火箭几乎不可能命中！在开阔地带优势巨大。	说明：TC-147 Jet Fighter
+Mustang	野马	TROOP | [TROOP] ArmyMan Mustang
+Very fast and effective against slow moving enemies.	速度极快，对移动缓慢的敌人很有效。	说明：Mustang
+TBR-3 Jet Fighter	TBR-3 喷气战斗机	TROOP | [TROOP] ActionFigure Army TBR-3 Jet Fighter
+High speed jet tank killer!!! & Brrrrrrrrrrrrttttttttttttttttttaaaaaaaaatatataa	高速喷气式坦克杀手！！！外加——突突突突突突突突突突突突哒哒哒哒哒哒哒哒哒哒	说明：TBR-3 Jet Fighter
+Attack on Toys Bucket	玩具大进攻玩具桶	BUCKET | [BUCKET] ArmyMan Attack on Toys Bucket
+Army Blocks Bucket	积木军玩具桶	BUCKET | [BUCKET] BlocksMan Army Blocks Bucket
+Action Commando Bucket	人偶突击队玩具桶	BUCKET | [BUCKET] ActionFigure Action Commando Bucket
+Cargo Truck	货运卡车	TROOP | [TROOP] ArmyMan Cargo Truck
+Easily transport loads of Army Man Squad into battle. High health to protect Army Man Squad to destination.	轻松将大批塑料兵小队送上战场。生命值高，能护送塑料兵小队抵达目的地。	说明：Cargo Truck
+HB-130 Heavy Plane	HB-130 重型飞机	TROOP | [TROOP] BlocksMan HB-130 Heavy Plane
+Very high health and damage. Ability to spawn paratrooper and incendiary bomb. The best air support an army can get. Has lethal incendiary cannon blast!	生命值和伤害极高。可以生成伞兵并投掷燃烧弹。一支军队所能得到的最佳空中支援。还有致命的燃烧炮轰击！	说明：HB-130 Heavy Plane
+HD-2 Cargo Tank	HD-2 货运坦克	TROOP | [TROOP] Robot HD-2 Cargo Tank
+Heavy armor mini cargo tank with War Bots troop included!	重装甲迷你货运坦克，自带战斗机器人部队！	说明：HD-2 Cargo Tank
+HTWL-21 Tank	HTWL-21 坦克	TROOP | [TROOP] Robot HTWL-21 Tank
+Tank with dual mini laser turret!!	配备双联迷你激光炮塔的坦克！！	说明：HTWL-21 Tank
+M48-Tank	M48 坦克	TROOP | [TROOP] ArmyMan M48-Tank
+Medium tank with machine gun attached on it. Army Man favourite tank!	加装了机枪的中型坦克。塑料兵最爱的坦克！	说明：M48-Tank
+Plastic Sweeper Bot	塑料清扫机器人	TROOP | [TROOP] Robot Plastic Sweeper Bot
+Help player to collect chunk of plastic. Super fast movement speed & big coin search radius.	帮助玩家收集塑料碎块。移动速度超快，塑料币搜索范围大。	说明：Plastic Sweeper Bot
+Spawn Point Blocks Man Hero	积木兵英雄生成点	SPAWN POINT | [SPAWN POINT] BlocksMan Hero
+Spawn Toy Heroes.	生成玩具英雄。	说明：Spawn Point Blocks Man Hero
+Spawn Point Robot Hero	机器人英雄生成点	SPAWN POINT | [SPAWN POINT] Robot Hero
+Spawn Point Army Man Hero	塑料兵英雄生成点	SPAWN POINT | [SPAWN POINT] ArmyMan Hero
+Spawn Point Action Figure Army Hero	人偶军英雄生成点	SPAWN POINT | [SPAWN POINT] ActionFigure Army Hero
+MB-42 Medic Jeep	MB-42 医疗吉普车	TROOP | [TROOP] BlocksMan MB-42 Medic Jeep
+Has Medic Squad that will heal friendlies and riding along with the jeep.	搭载随车行动的医疗兵小队，会为友军治疗。	说明：MB-42 Medic Jeep
+APC-M116	APC-M116 装甲运兵车	TROOP | [TROOP] ActionFigure Army APC-M116
+Spawn Action Army Soldier squad members. Has sandbag for extra protection toward your squad.	生成人偶军士兵小队成员。配有沙袋，为你的小队提供额外保护。	说明：APC-M116
+HMR-26 Jeep	HMR-26 吉普车	TROOP | [TROOP] ActionFigure Army HMR-26 Jeep
+Super fast jeep and has high damage Machine Gun!	超快的吉普车，配备高伤害机枪！	说明：HMR-26 Jeep
+CB-11 Car Blaster	CB-11 爆能战车	TROOP | [TROOP] Robot CB-11 Car Blaster
+Car with twin long range blaster and high damage!	配备双联远程爆能炮的战车，伤害很高！	说明：CB-11 Car Blaster
+Armoured Car K-3	K-3 装甲车	TROOP | [TROOP] ActionFigure Army Armoured Car K-3
+Fast Armoured Car Tank! Has one Machine Gunner Squad.	快速的装甲车坦克！配有一支机枪兵小队。	说明：Armoured Car K-3
