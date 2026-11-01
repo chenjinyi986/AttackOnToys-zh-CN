@@ -7,7 +7,7 @@ Unofficial Simplified Chinese translation for *Attack on Toys*, built on BepInEx
 ## 下载
 
 - **压缩包**：到 [Releases](../../releases) 下载最新的 `AttackOnToys_zh-CN_v*.zip`。
-- **Steam 创意工坊**：[物品 3831407646](https://steamcommunity.com/sharedfiles/filedetails/?id=3831407646)（尚未公开，公开后可访问）。两个渠道内容相同。
+- **Steam 创意工坊**：[简体中文汉化 | Simplified Chinese Translation](https://steamcommunity.com/sharedfiles/filedetails/?id=3831407646)，订阅后运行一次安装脚本，之后随工坊自动更新。两个渠道内容相同。
 
 ## 安装
 
